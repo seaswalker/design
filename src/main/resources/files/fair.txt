@@ -1,0 +1,779 @@
+12-1521:55:20[crawler.RecruitmentFairCrawler-50][Crawler 2][0   ] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=699&flag=content
+12-1521:55:20[crawler.RecruitmentFairCrawler-58][Crawler 1][94  ] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4685&flag=content
+12-1521:55:20[crawler.RecruitmentHolder-98][Crawler 1][122 ] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛奥技科光学有限公司, clickCount=352, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Dec 16 00:00:00 CST 2015, room=J1-323]存入数据库
+12-1521:55:21[crawler.RecruitmentFairCrawler-50][Crawler 2][951 ] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=698&flag=content
+12-1521:55:21[crawler.RecruitmentFairCrawler-50][Crawler 1][1111] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=387&flag=content
+12-1521:55:21[crawler.RecruitmentFairCrawler-50][Crawler 2][1325] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=695&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=388&flag=content
+12-1521:55:22[crawler.RecruitmentFairCrawler-50][Crawler 2][1734] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=694&flag=content
+12-1521:55:22[crawler.RecruitmentFairCrawler-50][Crawler 1][1926] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=386&flag=content
+12-1521:55:22[crawler.RecruitmentFairCrawler-50][Crawler 2][2128] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=692&flag=content
+12-1521:55:22[crawler.RecruitmentFairCrawler-50][Crawler 1][2321] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=385&flag=content
+12-1521:55:23[crawler.RecruitmentFairCrawler-50][Crawler 2][2532] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=691&flag=content
+12-1521:55:23[crawler.RecruitmentFairCrawler-50][Crawler 2][2972] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=693&flag=content
+12-1521:55:23[crawler.RecruitmentFairCrawler-50][Crawler 1][3121] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=384&flag=content
+12-1521:55:23[crawler.RecruitmentFairCrawler-50][Crawler 2][3330] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=700&flag=content
+12-1521:55:24[crawler.RecruitmentFairCrawler-50][Crawler 1][3522] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=383&flag=content
+12-1521:55:24[crawler.RecruitmentFairCrawler-50][Crawler 2][3725] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=701&flag=content
+12-1521:55:24[crawler.RecruitmentFairCrawler-58][Crawler 1][3933] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4678&flag=content
+12-1521:55:24[crawler.RecruitmentHolder-98][Crawler 1][3937] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛太极高新科技有限公司, clickCount=322, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Dec 16 00:00:00 CST 2015, room=J1-323]存入数据库
+12-1521:55:24[crawler.RecruitmentFairCrawler-50][Crawler 2][4125] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=703&flag=content
+12-1521:55:24[crawler.RecruitmentFairCrawler-58][Crawler 1][4331] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4636&flag=content
+12-1521:55:24[crawler.RecruitmentHolder-98][Crawler 1][4336] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=北京汽车股份有限公司北京分公司, clickCount=696, address=Address [province=Province [name=北京], city=null], salary=0, time=Wed Dec 16 00:00:00 CST 2015, room=J1-207宣讲，下午J1-213面试]存入数据库
+12-1521:55:25[crawler.RecruitmentFairCrawler-50][Crawler 2][4524] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=696&flag=content
+12-1521:55:25[crawler.RecruitmentFairCrawler-58][Crawler 1][4731] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4663&flag=content
+12-1521:55:25[crawler.RecruitmentHolder-98][Crawler 1][4735] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=鲁南制药集团股份有限公司, clickCount=483, address=Address [province=Province [name=山东], city=City [name=临沂]], salary=0, time=Thu Dec 10 00:00:00 CST 2015, room=J1--217]存入数据库
+12-1521:55:25[crawler.RecruitmentFairCrawler-50][Crawler 2][4924] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=697&flag=content
+12-1521:55:25[crawler.RecruitmentFairCrawler-58][Crawler 1][5124] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4605&flag=content
+12-1521:55:25[crawler.RecruitmentHolder-98][Crawler 1][5133] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=普信资产管理有限公司, clickCount=458, address=Address [province=Province [name=北京], city=null], salary=0, time=Mon Dec 14 00:00:00 CST 2015, room=J1-107]存入数据库
+12-1521:55:25[crawler.RecruitmentFairCrawler-50][Crawler 2][5332] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=702&flag=content
+12-1521:55:26[crawler.RecruitmentFairCrawler-58][Crawler 1][5529] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4662&flag=content
+12-1521:55:26[crawler.RecruitmentHolder-98][Crawler 1][5532] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=共享健康科技股份有限公司青岛分公司, clickCount=465, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Dec 11 00:00:00 CST 2015, room=J1-207]存入数据库
+12-1521:55:26[crawler.RecruitmentFairCrawler-58][Crawler 1][5960] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4665&flag=content
+12-1521:55:26[crawler.RecruitmentHolder-98][Crawler 1][5965] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=葛洲坝集团电力有限责任公司, clickCount=967, address=Address [province=Province [name=湖北], city=City [name=武汉]], salary=0, time=Tue Dec 15 00:00:00 CST 2015, room=J1--207]存入数据库
+12-1521:55:26[crawler.RecruitmentFairCrawler-69][Crawler 2][6157] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4676&flag=content
+12-1521:55:26[crawler.RecruitmentHolder-98][Crawler 2][6165] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=比德文控股集团, clickCount=305, address=Address [province=Province [name=山东], city=City [name=潍坊]], salary=0, time=Thu Dec 17 00:00:00 CST 2015, room=J1-318宣讲；J1-320面试]存入数据库
+12-1521:55:26[crawler.RecruitmentFairCrawler-58][Crawler 1][6354] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4626&flag=content
+12-1521:55:26[crawler.RecruitmentHolder-98][Crawler 1][6361] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛海通机器人系统有限公司, clickCount=445, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Dec 16 00:00:00 CST 2015, room=J1-317]存入数据库
+12-1521:55:27[crawler.RecruitmentFairCrawler-58][Crawler 2][6553] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4630&flag=content
+12-1521:55:27[crawler.RecruitmentHolder-98][Crawler 2][6558] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=华能山东石岛湾核电有限公司, clickCount=811, address=Address [province=Province [name=山东], city=City [name=威海]], salary=0, time=Fri Dec 18 00:00:00 CST 2015, room=J1-219室]存入数据库
+12-1521:55:27[crawler.RecruitmentFairCrawler-69][Crawler 1][6749] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2591&flag=content
+12-1521:55:27[crawler.RecruitmentHolder-98][Crawler 1][6753] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 10 00:00:00 CST 2015, room=J1-107]存入数据库
+12-1521:55:27[crawler.RecruitmentFairCrawler-69][Crawler 2][6951] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4673&flag=content
+12-1521:55:27[crawler.RecruitmentHolder-98][Crawler 2][6956] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中荷人寿保险有限公司, clickCount=533, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Dec 14 00:00:00 CST 2015, room=J1-307]存入数据库
+12-1521:55:27[crawler.RecruitmentFairCrawler-69][Crawler 1][7145] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2516&flag=content
+12-1521:55:27[crawler.RecruitmentHolder-98][Crawler 1][7147] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Jan 14 00:00:00 CST 2015, room=J8-313教室]存入数据库
+12-1521:55:27[crawler.RecruitmentFairCrawler-58][Crawler 2][7355] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4686&flag=content
+12-1521:55:27[crawler.RecruitmentHolder-98][Crawler 2][7358] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中青林集团有限公司, clickCount=287, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Dec 16 00:00:00 CST 2015, room=J1-211]存入数据库
+12-1521:55:28[crawler.RecruitmentFairCrawler-69][Crawler 1][7543] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2484&flag=content
+12-1521:55:28[crawler.RecruitmentHolder-98][Crawler 1][7548] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Jan 07 00:00:00 CST 2015, room=J1-207]存入数据库
+12-1521:55:28[crawler.RecruitmentFairCrawler-69][Crawler 2][7748] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4687&flag=content
+12-1521:55:28[crawler.RecruitmentHolder-98][Crawler 2][7751] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=信和财富青岛分公司, clickCount=118, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Dec 17 00:00:00 CST 2015, room=J1-211室]存入数据库
+12-1521:55:28[crawler.RecruitmentFairCrawler-50][Crawler 1][7946] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=400&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=681&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=402&flag=content
+12-1521:55:29[crawler.RecruitmentFairCrawler-50][Crawler 2][8543] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=682&flag=content
+12-1521:55:29[crawler.RecruitmentFairCrawler-50][Crawler 1][8751] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=401&flag=content
+12-1521:55:29[crawler.RecruitmentFairCrawler-50][Crawler 2][8944] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=684&flag=content
+12-1521:55:29[crawler.RecruitmentFairCrawler-50][Crawler 1][9152] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=411&flag=content
+12-1521:55:29[crawler.RecruitmentFairCrawler-50][Crawler 2][9342] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=683&flag=content
+12-1521:55:30[crawler.RecruitmentFairCrawler-50][Crawler 1][9542] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=390&flag=content
+12-1521:55:30[crawler.RecruitmentFairCrawler-50][Crawler 2][9743] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=674&flag=content
+12-1521:55:30[crawler.RecruitmentFairCrawler-50][Crawler 1][9957] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=389&flag=content
+12-1521:55:30[crawler.RecruitmentFairCrawler-50][Crawler 2][10143] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=673&flag=content
+12-1521:55:30[crawler.RecruitmentFairCrawler-50][Crawler 1][10343] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=391&flag=content
+12-1521:55:31[crawler.RecruitmentFairCrawler-50][Crawler 2][10543] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=671&flag=content
+12-1521:55:31[crawler.RecruitmentFairCrawler-50][Crawler 2][10988] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=690&flag=content
+12-1521:55:31[crawler.RecruitmentFairCrawler-50][Crawler 1][11142] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=410&flag=content
+12-1521:55:31[crawler.RecruitmentFairCrawler-50][Crawler 2][11344] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=672&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=406&flag=content
+12-1521:55:32[crawler.RecruitmentFairCrawler-50][Crawler 2][11761] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=685&flag=content
+12-1521:55:32[crawler.RecruitmentFairCrawler-50][Crawler 1][11947] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=407&flag=content
+12-1521:55:32[crawler.RecruitmentFairCrawler-50][Crawler 2][12145] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=687&flag=content
+12-1521:55:32[crawler.RecruitmentFairCrawler-50][Crawler 1][12341] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=405&flag=content
+12-1521:55:33[crawler.RecruitmentFairCrawler-50][Crawler 2][12542] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=670&flag=content
+12-1521:55:33[crawler.RecruitmentFairCrawler-50][Crawler 1][12743] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=409&flag=content
+12-1521:55:33[crawler.RecruitmentFairCrawler-50][Crawler 1][13144] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=399&flag=content
+12-1521:55:33[crawler.RecruitmentFairCrawler-50][Crawler 2][13342] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=689&flag=content
+12-1521:55:34[crawler.RecruitmentFairCrawler-69][Crawler 1][13543] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2475&flag=content
+12-1521:55:34[crawler.RecruitmentHolder-98][Crawler 1][13547] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Jan 08 00:00:00 CST 2015, room=J1-211室]存入数据库
+12-1521:55:34[crawler.RecruitmentFairCrawler-69][Crawler 2][13746] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4624&flag=content
+12-1521:55:34[crawler.RecruitmentHolder-98][Crawler 2][13748] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛鲁芯仪器有限公司, clickCount=754, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Dec 08 00:00:00 CST 2015, room=J1-229]存入数据库
+12-1521:55:34[crawler.RecruitmentFairCrawler-69][Crawler 1][13939] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2470&flag=content
+12-1521:55:34[crawler.RecruitmentHolder-98][Crawler 1][13943] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Jan 08 00:00:00 CST 2015, room=J1-113室]存入数据库
+12-1521:55:34[crawler.RecruitmentFairCrawler-69][Crawler 2][14144] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4592&flag=content
+12-1521:55:34[crawler.RecruitmentHolder-98][Crawler 2][14146] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛海尔开利冷冻设备有限公司, clickCount=757, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Dec 08 00:00:00 CST 2015, room=J1-311]存入数据库
+12-1521:55:34[crawler.RecruitmentFairCrawler-69][Crawler 1][14340] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2686&flag=content
+12-1521:55:34[crawler.RecruitmentHolder-98][Crawler 1][14344] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 17 00:00:00 CST 2015, room=J1-225]存入数据库
+12-1521:55:35[crawler.RecruitmentFairCrawler-69][Crawler 2][14556] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4607&flag=content
+12-1521:55:35[crawler.RecruitmentHolder-98][Crawler 2][14558] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=东营方圆有色金属有限公司, clickCount=464, address=Address [province=Province [name=山东], city=City [name=东营]], salary=0, time=Tue Dec 08 00:00:00 CST 2015, room=J1-407]存入数据库
+12-1521:55:35[crawler.RecruitmentFairCrawler-69][Crawler 2][14746] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4579&flag=content
+12-1521:55:35[crawler.RecruitmentHolder-98][Crawler 2][14749] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=新都（青岛）电子有限公司, clickCount=849, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Dec 07 00:00:00 CST 2015, room=J1-317室]存入数据库
+12-1521:55:35[crawler.RecruitmentFairCrawler-58][Crawler 2][14950] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4625&flag=content
+12-1521:55:35[crawler.RecruitmentHolder-98][Crawler 2][14951] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=西藏自治区公安厅反恐怖特别侦察队, clickCount=953, address=Address [province=Province [name=西藏自治区], city=City [name=拉萨]], salary=0, time=Wed Dec 02 00:00:00 CST 2015, room=J1-309室]存入数据库
+12-1521:55:35[crawler.RecruitmentFairCrawler-69][Crawler 2][15153] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4613&flag=content
+12-1521:55:35[crawler.RecruitmentHolder-98][Crawler 2][15157] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=小米科技有限责任公司, clickCount=1721, address=Address [province=Province [name=北京], city=null], salary=0, time=Wed Dec 02 00:00:00 CST 2015, room=J1-229室]存入数据库
+12-1521:55:35[crawler.RecruitmentFairCrawler-58][Crawler 2][15365] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4655&flag=content
+12-1521:55:35[crawler.RecruitmentHolder-98][Crawler 2][15383] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中国电子科技集团公司第第四十一研究所, clickCount=887, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Dec 11 00:00:00 CST 2015, room=J1--219]存入数据库
+12-1521:55:36[crawler.RecruitmentFairCrawler-69][Crawler 2][15551] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4336&flag=content
+12-1521:55:36[crawler.RecruitmentHolder-98][Crawler 2][15556] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=天博集团公司, clickCount=1159, address=Address [province=Province [name=山东], city=City [name=济宁]], salary=0, time=Fri Dec 04 00:00:00 CST 2015, room=J1-219室]存入数据库
+12-1521:55:36[crawler.RecruitmentFairCrawler-69][Crawler 2][15751] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4593&flag=content
+12-1521:55:36[crawler.RecruitmentHolder-98][Crawler 2][15754] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=新疆煤炭技师学院, clickCount=616, address=Address [province=Province [name=新疆维吾尔自治区], city=City [name=乌鲁木齐]], salary=0, time=Tue Dec 08 00:00:00 CST 2015, room=J1-317]存入数据库
+12-1521:55:36[crawler.RecruitmentFairCrawler-58][Crawler 2][15949] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4585&flag=content
+12-1521:55:36[crawler.RecruitmentHolder-98][Crawler 2][15954] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东大海集团, clickCount=802, address=Address [province=Province [name=山东], city=City [name=东营]], salary=0, time=Wed Dec 09 00:00:00 CST 2015, room=J1-207 面试教室 J1-211]存入数据库
+12-1521:55:36[crawler.RecruitmentFairCrawler-69][Crawler 2][16166] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4604&flag=content
+12-1521:55:36[crawler.RecruitmentHolder-98][Crawler 2][16167] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东润德工程项目管理有限公司, clickCount=1042, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Dec 01 00:00:00 CST 2015, room=J1-311室]存入数据库
+12-1521:55:36[crawler.RecruitmentFairCrawler-50][Crawler 2][16343] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=663&flag=content
+12-1521:55:37[crawler.RecruitmentFairCrawler-69][Crawler 1][16552] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4578&flag=content
+12-1521:55:37[crawler.RecruitmentHolder-98][Crawler 1][16553] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=福田雷沃国际重工股份有限公司, clickCount=1257, address=Address [province=Province [name=山东], city=City [name=潍坊]], salary=0, time=Mon Nov 23 00:00:00 CST 2015, room=J1--221室]存入数据库
+12-1521:55:37[crawler.RecruitmentFairCrawler-50][Crawler 2][16741] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=664&flag=content
+12-1521:55:37[crawler.RecruitmentFairCrawler-69][Crawler 1][16944] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4309&flag=content
+12-1521:55:37[crawler.RecruitmentHolder-98][Crawler 1][16946] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中交一航局第二工程有限公司, clickCount=1675, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Nov 24 00:00:00 CST 2015, room=J1-221室]存入数据库
+12-1521:55:37[crawler.RecruitmentFairCrawler-50][Crawler 2][17341] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=666&flag=content
+12-1521:55:38[crawler.RecruitmentFairCrawler-50][Crawler 1][17542] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=645&flag=content
+12-1521:55:38[crawler.RecruitmentFairCrawler-50][Crawler 2][17742] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=665&flag=content
+12-1521:55:38[crawler.RecruitmentFairCrawler-50][Crawler 1][17941] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=644&flag=content
+12-1521:55:38[crawler.RecruitmentFairCrawler-50][Crawler 2][18144] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=659&flag=content
+12-1521:55:38[crawler.RecruitmentFairCrawler-50][Crawler 1][18343] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=646&flag=content
+12-1521:55:39[crawler.RecruitmentFairCrawler-50][Crawler 2][18544] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=662&flag=content
+12-1521:55:39[crawler.RecruitmentFairCrawler-50][Crawler 1][18743] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=649&flag=content
+12-1521:55:39[crawler.RecruitmentFairCrawler-50][Crawler 2][18941] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=661&flag=content
+12-1521:55:39[crawler.RecruitmentFairCrawler-50][Crawler 1][19141] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=640&flag=content
+12-1521:55:39[crawler.RecruitmentFairCrawler-50][Crawler 2][19341] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=660&flag=content
+12-1521:55:40[crawler.RecruitmentFairCrawler-50][Crawler 1][19544] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=648&flag=content
+12-1521:55:40[crawler.RecruitmentFairCrawler-50][Crawler 2][19743] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=658&flag=content
+12-1521:55:40[crawler.RecruitmentFairCrawler-50][Crawler 1][19942] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=647&flag=content
+12-1521:55:40[crawler.RecruitmentFairCrawler-50][Crawler 2][20143] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=655&flag=content
+12-1521:55:41[crawler.RecruitmentFairCrawler-50][Crawler 2][20541] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=669&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=641&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=667&flag=content
+12-1521:55:41[crawler.RecruitmentFairCrawler-50][Crawler 1][21146] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=642&flag=content
+12-1521:55:41[crawler.RecruitmentFairCrawler-50][Crawler 2][21343] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=668&flag=content
+12-1521:55:42[crawler.RecruitmentFairCrawler-50][Crawler 1][21546] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=643&flag=content
+12-1521:55:42[crawler.RecruitmentFairCrawler-58][Crawler 2][21749] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4642&flag=content
+12-1521:55:42[crawler.RecruitmentHolder-98][Crawler 2][21751] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中赢卓信财富投资管理有限公司青岛开发区分公司, clickCount=466, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Dec 11 00:00:00 CST 2015, room=J1-217]存入数据库
+12-1521:55:42[crawler.RecruitmentFairCrawler-50][Crawler 1][21943] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=651&flag=content
+12-1521:55:42[crawler.RecruitmentFairCrawler-69][Crawler 2][22141] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2664&flag=content
+12-1521:55:42[crawler.RecruitmentHolder-98][Crawler 2][22142] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Mar 18 00:00:00 CST 2015, room=J1-217]存入数据库
+12-1521:55:42[crawler.RecruitmentFairCrawler-50][Crawler 1][22342] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=652&flag=content
+12-1521:55:43[crawler.RecruitmentFairCrawler-69][Crawler 2][22540] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2672&flag=content
+12-1521:55:43[crawler.RecruitmentHolder-98][Crawler 2][22541] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Mar 18 00:00:00 CST 2015, room=J1-219]存入数据库
+12-1521:55:43[crawler.RecruitmentFairCrawler-50][Crawler 1][22742] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=653&flag=content
+12-1521:55:43[crawler.RecruitmentFairCrawler-69][Crawler 2][22940] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2712&flag=content
+12-1521:55:43[crawler.RecruitmentHolder-98][Crawler 2][22942] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Mar 20 00:00:00 CST 2015, room=JS1实验楼103室]存入数据库
+12-1521:55:43[crawler.RecruitmentFairCrawler-69][Crawler 1][23160] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4588&flag=content
+12-1521:55:43[crawler.RecruitmentHolder-98][Crawler 1][23161] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=柳州五菱汽车工业有限公司山东分公司, clickCount=1084, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Nov 25 00:00:00 CST 2015, room=J1-413室]存入数据库
+12-1521:55:43[crawler.RecruitmentFairCrawler-69][Crawler 2][23340] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=1575&flag=content
+12-1521:55:43[crawler.RecruitmentHolder-98][Crawler 2][23341] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 17 00:00:00 CST 2015, room=J1-221]存入数据库
+12-1521:55:44[crawler.RecruitmentFairCrawler-69][Crawler 1][23550] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4583&flag=content
+12-1521:55:44[crawler.RecruitmentHolder-98][Crawler 1][23551] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东二七一教育集团, clickCount=708, address=Address [province=Province [name=山东], city=City [name=潍坊]], salary=0, time=Wed Nov 25 00:00:00 CST 2015, room=J1-219室]存入数据库
+12-1521:55:44[crawler.RecruitmentFairCrawler-69][Crawler 2][23739] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2632&flag=content
+12-1521:55:44[crawler.RecruitmentHolder-98][Crawler 2][23741] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Mar 16 00:00:00 CST 2015, room=J1-313室]存入数据库
+12-1521:55:44[crawler.RecruitmentFairCrawler-69][Crawler 1][23943] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4356&flag=content
+12-1521:55:44[crawler.RecruitmentHolder-98][Crawler 1][23944] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=云南省某政法机关, clickCount=575, address=Address [province=Province [name=云南], city=City [name=昆明]], salary=0, time=Mon Nov 23 00:00:00 CST 2015, room=j1-413]存入数据库
+12-1521:55:44[crawler.RecruitmentFairCrawler-69][Crawler 2][24140] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2670&flag=content
+12-1521:55:44[crawler.RecruitmentHolder-98][Crawler 2][24141] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 17 00:00:00 CST 2015, room=J1-123]存入数据库
+12-1521:55:44[crawler.RecruitmentFairCrawler-69][Crawler 1][24349] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4345&flag=content
+12-1521:55:44[crawler.RecruitmentHolder-98][Crawler 1][24352] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=北京仁创生态环保科技股份公司, clickCount=497, address=Address [province=Province [name=北京], city=null], salary=0, time=Thu Nov 26 00:00:00 CST 2015, room=J1-307室，晚上面试J1-307室]存入数据库
+12-1521:55:45[crawler.RecruitmentFairCrawler-69][Crawler 1][24757] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4571&flag=content
+12-1521:55:45[crawler.RecruitmentHolder-98][Crawler 1][24759] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=内蒙古伊利实业集团股份有限公司, clickCount=775, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Thu Nov 26 00:00:00 CST 2015, room=J1-411室]存入数据库
+12-1521:55:45[crawler.RecruitmentFairCrawler-50][Crawler 2][24946] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=418&flag=content
+12-1521:55:45[crawler.RecruitmentFairCrawler-69][Crawler 1][25149] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4580&flag=content
+12-1521:55:45[crawler.RecruitmentHolder-98][Crawler 1][25150] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=沂州集团, clickCount=833, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Mon Nov 23 00:00:00 CST 2015, room=J14-311室]存入数据库
+12-1521:55:45[crawler.RecruitmentFairCrawler-50][Crawler 2][25346] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=419&flag=content
+12-1521:55:46[crawler.RecruitmentFairCrawler-69][Crawler 1][25552] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4355&flag=content
+12-1521:55:46[crawler.RecruitmentHolder-98][Crawler 1][25553] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中建安装工程有限公司, clickCount=874, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Fri Nov 20 00:00:00 CST 2015, room=J1-307室]存入数据库
+12-1521:55:46[crawler.RecruitmentFairCrawler-50][Crawler 2][25744] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=414&flag=content
+12-1521:55:46[crawler.RecruitmentFairCrawler-69][Crawler 1][25956] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4343&flag=content
+12-1521:55:46[crawler.RecruitmentHolder-98][Crawler 1][25958] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛联合立辉商贸有限公司, clickCount=403, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Nov 20 00:00:00 CST 2015, room=J1-219室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=413&flag=content
+12-1521:55:46[crawler.RecruitmentFairCrawler-69][Crawler 1][26355] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4350&flag=content
+12-1521:55:46[crawler.RecruitmentHolder-98][Crawler 1][26356] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东舒朗服装服饰股份有限公司, clickCount=794, address=Address [province=Province [name=山东], city=City [name=烟台]], salary=0, time=Sat Nov 28 00:00:00 CST 2015, room=J1-307室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=417&flag=content
+12-1521:55:47[crawler.RecruitmentFairCrawler-69][Crawler 1][26763] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4596&flag=content
+12-1521:55:47[crawler.RecruitmentHolder-98][Crawler 1][26764] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛路嘉宝科技企业孵化器, clickCount=571, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Nov 27 00:00:00 CST 2015, room=J1-217室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=416&flag=content
+12-1521:55:47[crawler.RecruitmentFairCrawler-58][Crawler 1][27150] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4291&flag=content
+12-1521:55:47[crawler.RecruitmentHolder-98][Crawler 1][27151] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=达能（中国）食品饮料有限公司, clickCount=625, address=Address [province=Province [name=广东], city=City [name=中山]], salary=0, time=Thu Nov 19 00:00:00 CST 2015, room=J6-433室]存入数据库
+12-1521:55:47[crawler.RecruitmentFairCrawler-50][Crawler 2][27348] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=415&flag=content
+12-1521:55:48[crawler.RecruitmentFairCrawler-58][Crawler 1][27557] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4263&flag=content
+12-1521:55:48[crawler.RecruitmentHolder-98][Crawler 1][27558] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛苏宁云商商贸有限公司, clickCount=776, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Nov 19 00:00:00 CST 2015, room=J1-307室]存入数据库
+12-1521:55:48[crawler.RecruitmentFairCrawler-50][Crawler 2][27745] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=426&flag=content
+12-1521:55:48[crawler.RecruitmentFairCrawler-69][Crawler 1][27950] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4321&flag=content
+12-1521:55:48[crawler.RecruitmentHolder-98][Crawler 1][27952] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=北京恒昌汇财投资管理有限公司青岛开发区分公司, clickCount=428, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Nov 19 00:00:00 CST 2015, room=J1-229室]存入数据库
+12-1521:55:48[crawler.RecruitmentFairCrawler-50][Crawler 2][28145] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=420&flag=content
+12-1521:55:48[crawler.RecruitmentFairCrawler-69][Crawler 1][28352] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4217&flag=content
+12-1521:55:48[crawler.RecruitmentHolder-98][Crawler 1][28353] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=济南欧珀电子有限公司, clickCount=843, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Mon Nov 23 00:00:00 CST 2015, room=J1-229室宣讲，23日晚上J1-229室笔试，24日J14-426室面试，25日J14-426室面试]存入数据库
+12-1521:55:49[crawler.RecruitmentFairCrawler-50][Crawler 2][28550] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=421&flag=content
+12-1521:55:49[crawler.RecruitmentFairCrawler-69][Crawler 1][28759] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4308&flag=content
+12-1521:55:49[crawler.RecruitmentHolder-98][Crawler 1][28761] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东众邸便利生活有限公司, clickCount=692, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Nov 17 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:55:49[crawler.RecruitmentFairCrawler-50][Crawler 2][28948] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=423&flag=content
+12-1521:55:49[crawler.RecruitmentFairCrawler-69][Crawler 1][29164] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4323&flag=content
+12-1521:55:49[crawler.RecruitmentHolder-98][Crawler 1][29166] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=千喜鹤集团创投系, clickCount=744, address=Address [province=Province [name=北京], city=null], salary=0, time=Fri Nov 20 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:55:49[crawler.RecruitmentFairCrawler-50][Crawler 2][29348] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=422&flag=content
+12-1521:55:50[crawler.RecruitmentFairCrawler-69][Crawler 1][29554] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4322&flag=content
+12-1521:55:50[crawler.RecruitmentHolder-98][Crawler 1][29555] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=海程邦达国际物流有限公司, clickCount=699, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Nov 18 00:00:00 CST 2015, room=J6-433室]存入数据库
+12-1521:55:50[crawler.RecruitmentFairCrawler-50][Crawler 2][29747] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=424&flag=content
+12-1521:55:50[crawler.RecruitmentFairCrawler-50][Crawler 1][29947] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=628&flag=content
+12-1521:55:50[crawler.RecruitmentFairCrawler-69][Crawler 2][30160] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2701&flag=content
+12-1521:55:50[crawler.RecruitmentHolder-98][Crawler 2][30161] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Mar 19 00:00:00 CST 2015, room=J1-225室]存入数据库
+12-1521:55:50[crawler.RecruitmentFairCrawler-50][Crawler 1][30346] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=627&flag=content
+12-1521:55:51[crawler.RecruitmentFairCrawler-69][Crawler 2][30542] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2700&flag=content
+12-1521:55:51[crawler.RecruitmentHolder-98][Crawler 2][30543] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Mar 19 00:00:00 CST 2015, room=大学生活动中心201室]存入数据库
+12-1521:55:51[crawler.RecruitmentFairCrawler-50][Crawler 1][30745] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=626&flag=content
+12-1521:55:51[crawler.RecruitmentFairCrawler-69][Crawler 2][30942] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2688&flag=content
+12-1521:55:51[crawler.RecruitmentHolder-98][Crawler 2][30946] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Mar 18 00:00:00 CST 2015, room=J1-123]存入数据库
+12-1521:55:51[crawler.RecruitmentFairCrawler-50][Crawler 1][31144] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=625&flag=content
+12-1521:55:51[crawler.RecruitmentFairCrawler-69][Crawler 2][31343] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2689&flag=content
+12-1521:55:51[crawler.RecruitmentHolder-98][Crawler 2][31344] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Mar 19 00:00:00 CST 2015, room=J1-309室]存入数据库
+12-1521:55:52[crawler.RecruitmentFairCrawler-50][Crawler 1][31547] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=639&flag=content
+12-1521:55:52[crawler.RecruitmentFairCrawler-50][Crawler 2][31747] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=435&flag=content
+12-1521:55:52[crawler.RecruitmentFairCrawler-50][Crawler 2][32156] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=436&flag=content
+12-1521:55:52[crawler.RecruitmentFairCrawler-50][Crawler 1][32348] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=637&flag=content
+12-1521:55:53[crawler.RecruitmentFairCrawler-50][Crawler 2][32545] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=434&flag=content
+12-1521:55:53[crawler.RecruitmentFairCrawler-50][Crawler 1][32746] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=636&flag=content
+12-1521:55:53[crawler.RecruitmentFairCrawler-50][Crawler 2][32946] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=431&flag=content
+12-1521:55:53[crawler.RecruitmentFairCrawler-50][Crawler 1][33160] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=638&flag=content
+12-1521:55:53[crawler.RecruitmentFairCrawler-50][Crawler 2][33346] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=430&flag=content
+12-1521:55:54[crawler.RecruitmentFairCrawler-50][Crawler 1][33545] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=630&flag=content
+12-1521:55:54[crawler.RecruitmentFairCrawler-50][Crawler 2][33749] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=439&flag=content
+12-1521:55:54[crawler.RecruitmentFairCrawler-50][Crawler 1][33946] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=631&flag=content
+12-1521:55:54[crawler.RecruitmentFairCrawler-50][Crawler 2][34146] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=438&flag=content
+12-1521:55:54[crawler.RecruitmentFairCrawler-50][Crawler 1][34348] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=633&flag=content
+12-1521:55:55[crawler.RecruitmentFairCrawler-50][Crawler 2][34551] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=432&flag=content
+12-1521:55:55[crawler.RecruitmentFairCrawler-50][Crawler 1][34750] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=634&flag=content
+12-1521:55:55[crawler.RecruitmentFairCrawler-50][Crawler 2][34945] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=433&flag=content
+12-1521:55:55[crawler.RecruitmentFairCrawler-50][Crawler 1][35146] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=632&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=440&flag=content
+12-1521:55:56[crawler.RecruitmentFairCrawler-58][Crawler 1][35558] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4137&flag=content
+12-1521:55:56[crawler.RecruitmentHolder-98][Crawler 1][35561] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=千喜鹤集团, clickCount=836, address=Address [province=Province [name=北京], city=null], salary=0, time=Wed Nov 18 00:00:00 CST 2015, room=J1-229室]存入数据库
+12-1521:55:56[crawler.RecruitmentFairCrawler-50][Crawler 2][35747] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=428&flag=content
+12-1521:55:56[crawler.RecruitmentFairCrawler-58][Crawler 1][35962] - 访问详细页面: http://career.sdust.edu.cn/servlet/RecruitmentServlet?ID=4250&flag=content
+12-1521:55:56[crawler.RecruitmentHolder-98][Crawler 1][35964] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=日月光半导体（威海）有限公司, clickCount=756, address=Address [province=Province [name=北京], city=null], salary=0, time=Wed Nov 18 00:00:00 CST 2015, room=J1-425室]存入数据库
+12-1521:55:56[crawler.RecruitmentFairCrawler-50][Crawler 2][36147] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=427&flag=content
+12-1521:55:56[crawler.RecruitmentFairCrawler-69][Crawler 1][36367] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4328&flag=content
+12-1521:55:56[crawler.RecruitmentHolder-98][Crawler 1][36369] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中石化第十建设有限公司, clickCount=1646, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Nov 18 00:00:00 CST 2015, room=J1-221室]存入数据库
+12-1521:55:57[crawler.RecruitmentFairCrawler-50][Crawler 2][36561] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=429&flag=content
+12-1521:55:57[crawler.RecruitmentFairCrawler-69][Crawler 1][36753] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4331&flag=content
+12-1521:55:57[crawler.RecruitmentHolder-98][Crawler 1][36759] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东得益乳业股份有限公司, clickCount=357, address=Address [province=Province [name=山东], city=City [name=淄博]], salary=0, time=Thu Nov 26 00:00:00 CST 2015, room=J1-219室]存入数据库
+12-1521:55:57[crawler.RecruitmentFairCrawler-69][Crawler 1][37193] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4334&flag=content
+12-1521:55:57[crawler.RecruitmentHolder-98][Crawler 1][37198] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=特变电工山东鲁能泰山电缆有限公司, clickCount=1176, address=Address [province=Province [name=山东], city=City [name=泰安]], salary=0, time=Thu Nov 19 00:00:00 CST 2015, room=J1-317]存入数据库
+12-1521:55:57[crawler.RecruitmentFairCrawler-69][Crawler 2][37363] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2744&flag=content
+12-1521:55:57[crawler.RecruitmentHolder-98][Crawler 2][37365] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 24 00:00:00 CST 2015, room=J1-413]存入数据库
+12-1521:55:58[crawler.RecruitmentFairCrawler-69][Crawler 1][37575] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4083&flag=content
+12-1521:55:58[crawler.RecruitmentHolder-98][Crawler 1][37577] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=富海集团有限公司, clickCount=985, address=Address [province=Province [name=山东], city=City [name=东营]], salary=0, time=Mon Nov 16 00:00:00 CST 2015, room=J1--317室]存入数据库
+12-1521:55:58[crawler.RecruitmentFairCrawler-69][Crawler 2][37766] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2743&flag=content
+12-1521:55:58[crawler.RecruitmentHolder-98][Crawler 2][37767] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 24 00:00:00 CST 2015, room=J1-225]存入数据库
+12-1521:55:58[crawler.RecruitmentFairCrawler-69][Crawler 1][37963] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2663&flag=content
+12-1521:55:58[crawler.RecruitmentHolder-98][Crawler 1][37964] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 31 00:00:00 CST 2015, room=J1-221]存入数据库
+12-1521:55:58[crawler.RecruitmentFairCrawler-69][Crawler 2][38164] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2693&flag=content
+12-1521:55:58[crawler.RecruitmentHolder-98][Crawler 2][38165] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Mar 20 00:00:00 CST 2015, room=J1-115室]存入数据库
+12-1521:55:58[crawler.RecruitmentFairCrawler-50][Crawler 1][38371] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=612&flag=content
+12-1521:55:59[crawler.RecruitmentFairCrawler-69][Crawler 2][38565] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2645&flag=content
+12-1521:55:59[crawler.RecruitmentHolder-98][Crawler 2][38566] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Mar 20 00:00:00 CST 2015, room=J1-111室]存入数据库
+12-1521:55:59[crawler.RecruitmentFairCrawler-50][Crawler 1][38774] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=621&flag=content
+12-1521:55:59[crawler.RecruitmentFairCrawler-69][Crawler 2][38978] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2590&flag=content
+12-1521:55:59[crawler.RecruitmentHolder-98][Crawler 2][38979] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 24 00:00:00 CST 2015, room=J1-119室]存入数据库
+12-1521:55:59[crawler.RecruitmentFairCrawler-50][Crawler 1][39166] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=623&flag=content
+12-1521:55:59[crawler.RecruitmentFairCrawler-69][Crawler 2][39363] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2705&flag=content
+12-1521:55:59[crawler.RecruitmentHolder-98][Crawler 2][39365] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 24 00:00:00 CST 2015, room=J1-319]存入数据库
+12-1521:56:00[crawler.RecruitmentFairCrawler-50][Crawler 1][39568] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=622&flag=content
+12-1521:56:00[crawler.RecruitmentFairCrawler-69][Crawler 2][39766] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2780&flag=content
+12-1521:56:00[crawler.RecruitmentHolder-98][Crawler 2][39768] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Mar 25 00:00:00 CST 2015, room=J1-111室]存入数据库
+12-1521:56:00[crawler.RecruitmentFairCrawler-50][Crawler 1][39966] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=624&flag=content
+12-1521:56:00[crawler.RecruitmentFairCrawler-69][Crawler 2][40166] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2774&flag=content
+12-1521:56:00[crawler.RecruitmentHolder-98][Crawler 2][40167] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Mar 26 00:00:00 CST 2015, room=J1-225室]存入数据库
+12-1521:56:00[crawler.RecruitmentFairCrawler-50][Crawler 1][40372] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=620&flag=content
+12-1521:56:01[crawler.RecruitmentFairCrawler-69][Crawler 2][40565] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2778&flag=content
+12-1521:56:01[crawler.RecruitmentHolder-98][Crawler 2][40566] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Mar 25 00:00:00 CST 2015, room=J1-207室]存入数据库
+12-1521:56:01[crawler.RecruitmentFairCrawler-50][Crawler 1][40767] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=616&flag=content
+12-1521:56:01[crawler.RecruitmentFairCrawler-69][Crawler 2][40963] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2781&flag=content
+12-1521:56:01[crawler.RecruitmentHolder-98][Crawler 2][40964] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Mar 26 00:00:00 CST 2015, room=J1-309室]存入数据库
+12-1521:56:01[crawler.RecruitmentFairCrawler-50][Crawler 1][41167] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=615&flag=content
+12-1521:56:01[crawler.RecruitmentFairCrawler-69][Crawler 2][41376] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4281&flag=content
+12-1521:56:01[crawler.RecruitmentHolder-98][Crawler 2][41378] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=大唐山东清洁能源开发有限公司, clickCount=1645, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Nov 12 00:00:00 CST 2015, room=J1-325室]存入数据库
+12-1521:56:02[crawler.RecruitmentFairCrawler-69][Crawler 2][41774] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4278&flag=content
+12-1521:56:02[crawler.RecruitmentHolder-98][Crawler 2][41776] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东中烟工业有限责任公司滕州卷烟厂始, clickCount=1029, address=Address [province=Province [name=山东], city=City [name=枣庄]], salary=0, time=Thu Nov 12 00:00:00 CST 2015, room=J1-325室]存入数据库
+12-1521:56:02[crawler.RecruitmentFairCrawler-50][Crawler 1][41968] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=614&flag=content
+12-1521:56:02[crawler.RecruitmentFairCrawler-69][Crawler 2][42172] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4225&flag=content
+12-1521:56:02[crawler.RecruitmentHolder-98][Crawler 2][42174] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东胜越石化工程建设有限公司, clickCount=1110, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Nov 12 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:56:02[crawler.RecruitmentFairCrawler-50][Crawler 1][42368] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=617&flag=content
+12-1521:56:03[crawler.RecruitmentFairCrawler-69][Crawler 2][42579] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4145&flag=content
+12-1521:56:03[crawler.RecruitmentHolder-98][Crawler 2][42581] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东蓝海酒店集团, clickCount=621, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Nov 12 00:00:00 CST 2015, room=J1-307室]存入数据库
+12-1521:56:03[crawler.RecruitmentFairCrawler-50][Crawler 1][42785] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=619&flag=content
+12-1521:56:03[crawler.RecruitmentFairCrawler-69][Crawler 2][42971] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4254&flag=content
+12-1521:56:03[crawler.RecruitmentHolder-98][Crawler 2][42972] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东顺达海洋工程有限公司, clickCount=1202, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Nov 10 00:00:00 CST 2015, room=J14-305室宣讲，下午面试笔试J14-205室]存入数据库
+12-1521:56:03[crawler.RecruitmentFairCrawler-50][Crawler 1][43169] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=613&flag=content
+12-1521:56:03[crawler.RecruitmentFairCrawler-69][Crawler 2][43371] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4265&flag=content
+12-1521:56:03[crawler.RecruitmentHolder-98][Crawler 2][43374] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛福日集团有限公司, clickCount=1062, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Nov 11 00:00:00 CST 2015, room=J14-305室宣讲，J14-313室面试；下午13:30 J14-308室;J14-310室面试]存入数据库
+12-1521:56:04[crawler.RecruitmentFairCrawler-50][Crawler 1][43575] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=618&flag=content
+12-1521:56:04[crawler.RecruitmentFairCrawler-69][Crawler 2][43779] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4284&flag=content
+12-1521:56:04[crawler.RecruitmentHolder-98][Crawler 2][43782] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=佛吉亚（青岛）排气系统有限公司, clickCount=1040, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Nov 11 00:00:00 CST 2015, room=J14-323室]存入数据库
+12-1521:56:04[crawler.RecruitmentFairCrawler-69][Crawler 1][43966] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2923&flag=content
+12-1521:56:04[crawler.RecruitmentHolder-98][Crawler 1][43967] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Mar 31 00:00:00 CST 2015, room=多媒体J1-111]存入数据库
+12-1521:56:04[crawler.RecruitmentFairCrawler-69][Crawler 2][44179] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4065&flag=content
+12-1521:56:04[crawler.RecruitmentHolder-98][Crawler 2][44211] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=歌尔声学股份有限公司, clickCount=1398, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Nov 11 00:00:00 CST 2015, room=J1-221室宣讲，12日J14-420室;J14-426室;J14-428室面试，13日上午J14-432室;J14-434室签约]存入数据库
+12-1521:56:04[crawler.RecruitmentFairCrawler-69][Crawler 1][44379] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4296&flag=content
+12-1521:56:04[crawler.RecruitmentHolder-98][Crawler 1][44383] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛韦博语言专修学校, clickCount=335, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Nov 13 00:00:00 CST 2015, room=J1-407室]存入数据库
+12-1521:56:05[crawler.RecruitmentFairCrawler-69][Crawler 2][44576] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4252&flag=content
+12-1521:56:05[crawler.RecruitmentHolder-98][Crawler 2][44578] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东禹王集团, clickCount=968, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Wed Nov 11 00:00:00 CST 2015, room=J1-219室]存入数据库
+12-1521:56:05[crawler.RecruitmentFairCrawler-69][Crawler 1][44766] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2879&flag=content
+12-1521:56:05[crawler.RecruitmentHolder-98][Crawler 1][44770] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Mar 30 00:00:00 CST 2015, room=J1-214]存入数据库
+12-1521:56:05[crawler.RecruitmentFairCrawler-69][Crawler 2][44975] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4248&flag=content
+12-1521:56:05[crawler.RecruitmentHolder-98][Crawler 2][44976] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中国中车青岛四方机车车辆股份有限公司, clickCount=1520, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Nov 11 00:00:00 CST 2015, room=J14-213室]存入数据库
+12-1521:56:05[crawler.RecruitmentFairCrawler-69][Crawler 1][45172] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4298&flag=content
+12-1521:56:05[crawler.RecruitmentHolder-98][Crawler 1][45174] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=五矿二十三冶建设集团有限公司, clickCount=877, address=Address [province=Province [name=湖南], city=City [name=长沙]], salary=0, time=Sat Nov 14 00:00:00 CST 2015, room=J14-103室 面试J14-205室;J14-207室；J14-209室;J14-211室]存入数据库
+12-1521:56:05[crawler.RecruitmentFairCrawler-69][Crawler 2][45378] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4261&flag=content
+12-1521:56:05[crawler.RecruitmentHolder-98][Crawler 2][45379] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中通客车控股股份有限公司, clickCount=1563, address=Address [province=Province [name=山东], city=City [name=聊城]], salary=0, time=Tue Nov 10 00:00:00 CST 2015, room=J14-511室宣讲，下午2：30 J14-211室面试]存入数据库
+12-1521:56:06[crawler.RecruitmentFairCrawler-69][Crawler 1][45565] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2837&flag=content
+12-1521:56:06[crawler.RecruitmentHolder-98][Crawler 1][45566] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Mar 27 00:00:00 CST 2015, room=J1-115室]存入数据库
+12-1521:56:06[crawler.RecruitmentFairCrawler-69][Crawler 2][45777] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4224&flag=content
+12-1521:56:06[crawler.RecruitmentHolder-98][Crawler 2][45779] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=海信集团青岛大区, clickCount=2185, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Nov 10 00:00:00 CST 2015, room=J1-219室]存入数据库
+12-1521:56:06[crawler.RecruitmentFairCrawler-69][Crawler 1][45973] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4305&flag=content
+12-1521:56:06[crawler.RecruitmentHolder-98][Crawler 1][45975] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东中烟工业有限责任公司青岛卷烟厂, clickCount=1189, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Nov 16 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:56:06[crawler.RecruitmentFairCrawler-69][Crawler 1][46365] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2261&flag=content
+12-1521:56:06[crawler.RecruitmentHolder-98][Crawler 1][46366] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Mar 27 00:00:00 CST 2015, room=J1-117室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=610&flag=content
+12-1521:56:07[crawler.RecruitmentFairCrawler-69][Crawler 1][46781] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4126&flag=content
+12-1521:56:07[crawler.RecruitmentHolder-98][Crawler 1][46783] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=广州毅昌科技股份有限公司, clickCount=582, address=Address [province=Province [name=广东], city=City [name=广州]], salary=0, time=Fri Nov 13 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:56:07[crawler.RecruitmentFairCrawler-50][Crawler 2][46968] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=611&flag=content
+12-1521:56:07[crawler.RecruitmentFairCrawler-69][Crawler 1][47164] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2804&flag=content
+12-1521:56:07[crawler.RecruitmentHolder-98][Crawler 1][47166] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Apr 02 00:00:00 CST 2015, room=J1-313室]存入数据库
+12-1521:56:07[crawler.RecruitmentFairCrawler-50][Crawler 2][47369] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=608&flag=content
+12-1521:56:08[crawler.RecruitmentFairCrawler-69][Crawler 1][47576] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4232&flag=content
+12-1521:56:08[crawler.RecruitmentHolder-98][Crawler 1][47578] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东力诺光伏高科技有限公司, clickCount=1178, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Fri Nov 13 00:00:00 CST 2015, room=J1-325室]存入数据库
+12-1521:56:08[crawler.RecruitmentFairCrawler-50][Crawler 2][47770] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=609&flag=content
+12-1521:56:08[crawler.RecruitmentFairCrawler-69][Crawler 1][47964] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2950&flag=content
+12-1521:56:08[crawler.RecruitmentHolder-98][Crawler 1][47965] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Mar 30 00:00:00 CST 2015, room=J1-111]存入数据库
+12-1521:56:08[crawler.RecruitmentFairCrawler-50][Crawler 2][48168] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=599&flag=content
+12-1521:56:08[crawler.RecruitmentFairCrawler-69][Crawler 1][48374] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4289&flag=content
+12-1521:56:08[crawler.RecruitmentHolder-98][Crawler 1][48375] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛安华财富集团, clickCount=655, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Nov 13 00:00:00 CST 2015, room=J1-307室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=605&flag=content
+12-1521:56:09[crawler.RecruitmentFairCrawler-69][Crawler 1][48765] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2721&flag=content
+12-1521:56:09[crawler.RecruitmentHolder-98][Crawler 1][48767] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Mar 30 00:00:00 CST 2015, room=J1-207]存入数据库
+12-1521:56:09[crawler.RecruitmentFairCrawler-50][Crawler 2][48967] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=606&flag=content
+12-1521:56:09[crawler.RecruitmentFairCrawler-69][Crawler 1][49176] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4290&flag=content
+12-1521:56:09[crawler.RecruitmentHolder-98][Crawler 1][49179] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=亚太森博（山东）浆纸有限公司, clickCount=662, address=Address [province=Province [name=山东], city=City [name=日照]], salary=0, time=Fri Nov 13 00:00:00 CST 2015, room=J1-207室宣讲，下午J14-113室面试]存入数据库
+12-1521:56:09[crawler.RecruitmentFairCrawler-50][Crawler 2][49367] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=607&flag=content
+12-1521:56:10[crawler.RecruitmentFairCrawler-69][Crawler 1][49567] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2816&flag=content
+12-1521:56:10[crawler.RecruitmentHolder-98][Crawler 1][49568] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Mar 30 00:00:00 CST 2015, room=J1-313]存入数据库
+12-1521:56:10[crawler.RecruitmentFairCrawler-50][Crawler 2][49770] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=600&flag=content
+12-1521:56:10[crawler.RecruitmentFairCrawler-69][Crawler 1][49986] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4264&flag=content
+12-1521:56:10[crawler.RecruitmentHolder-98][Crawler 1][49987] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=天津欧派集成家居有限公司, clickCount=700, address=Address [province=Province [name=天津], city=null], salary=0, time=Fri Nov 13 00:00:00 CST 2015, room=J1-417室宣讲，周六J14-113室复试]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=604&flag=content
+12-1521:56:10[crawler.RecruitmentFairCrawler-69][Crawler 1][50368] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2814&flag=content
+12-1521:56:10[crawler.RecruitmentHolder-98][Crawler 1][50369] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Mar 25 00:00:00 CST 2015, room=J6-217]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=603&flag=content
+12-1521:56:11[crawler.RecruitmentFairCrawler-69][Crawler 1][50767] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2809&flag=content
+12-1521:56:11[crawler.RecruitmentHolder-98][Crawler 1][50768] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Mar 26 00:00:00 CST 2015, room=J1-319室]存入数据库
+12-1521:56:11[crawler.RecruitmentFairCrawler-50][Crawler 2][50970] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=601&flag=content
+12-1521:56:11[crawler.RecruitmentFairCrawler-69][Crawler 1][51165] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2611&flag=content
+12-1521:56:11[crawler.RecruitmentHolder-98][Crawler 1][51166] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Mar 27 00:00:00 CST 2015, room=J1-407]存入数据库
+12-1521:56:11[crawler.RecruitmentFairCrawler-50][Crawler 2][51368] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=602&flag=content
+12-1521:56:12[crawler.RecruitmentFairCrawler-50][Crawler 1][51568] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=454&flag=content
+12-1521:56:12[crawler.RecruitmentFairCrawler-69][Crawler 2][51776] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4006&flag=content
+12-1521:56:12[crawler.RecruitmentHolder-98][Crawler 2][51777] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=威纶通科技有限公司, clickCount=1131, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Tue Nov 10 00:00:00 CST 2015, room=J1-311室]存入数据库
+12-1521:56:12[crawler.RecruitmentFairCrawler-50][Crawler 1][51967] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=456&flag=content
+12-1521:56:12[crawler.RecruitmentFairCrawler-69][Crawler 2][52173] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4262&flag=content
+12-1521:56:12[crawler.RecruitmentHolder-98][Crawler 2][52174] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=德邦物流, clickCount=875, address=Address [province=Province [name=北京], city=null], salary=0, time=Fri Nov 06 00:00:00 CST 2015, room=J1-121室]存入数据库
+12-1521:56:12[crawler.RecruitmentFairCrawler-50][Crawler 1][52368] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=455&flag=content
+12-1521:56:13[crawler.RecruitmentFairCrawler-69][Crawler 2][52573] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4196&flag=content
+12-1521:56:13[crawler.RecruitmentHolder-98][Crawler 2][52575] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东太阳纸业股份有限公司, clickCount=722, address=Address [province=Province [name=山东], city=City [name=济宁]], salary=0, time=Wed Nov 11 00:00:00 CST 2015, room=J14-509室]存入数据库
+12-1521:56:13[crawler.RecruitmentFairCrawler-50][Crawler 1][52767] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=449&flag=content
+12-1521:56:13[crawler.RecruitmentFairCrawler-69][Crawler 2][52973] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4124&flag=content
+12-1521:56:13[crawler.RecruitmentHolder-98][Crawler 2][52974] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=航天恒星科技有限公司（航天五院503所），, clickCount=1260, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Tue Nov 10 00:00:00 CST 2015, room=J14-411室]存入数据库
+12-1521:56:13[crawler.RecruitmentFairCrawler-50][Crawler 1][53167] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=453&flag=content
+12-1521:56:13[crawler.RecruitmentFairCrawler-69][Crawler 2][53376] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4271&flag=content
+12-1521:56:13[crawler.RecruitmentHolder-98][Crawler 2][53377] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东力威经贸有限公司, clickCount=832, address=Address [province=Province [name=山东], city=City [name=潍坊]], salary=0, time=Wed Nov 11 00:00:00 CST 2015, room=J1-413室]存入数据库
+12-1521:56:14[crawler.RecruitmentFairCrawler-50][Crawler 1][53571] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=452&flag=content
+12-1521:56:14[crawler.RecruitmentFairCrawler-69][Crawler 2][53767] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3287&flag=content
+12-1521:56:14[crawler.RecruitmentHolder-98][Crawler 2][53768] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Apr 20 00:00:00 CST 2015, room=J1-319]存入数据库
+12-1521:56:14[crawler.RecruitmentFairCrawler-50][Crawler 1][53969] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=450&flag=content
+12-1521:56:14[crawler.RecruitmentFairCrawler-69][Crawler 2][54164] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3345&flag=content
+12-1521:56:14[crawler.RecruitmentHolder-98][Crawler 2][54165] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Apr 20 00:00:00 CST 2015, room=J1-115]存入数据库
+12-1521:56:14[crawler.RecruitmentFairCrawler-50][Crawler 1][54367] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=451&flag=content
+12-1521:56:15[crawler.RecruitmentFairCrawler-50][Crawler 2][54567] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=586&flag=content
+12-1521:56:15[crawler.RecruitmentFairCrawler-50][Crawler 1][54768] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=441&flag=content
+12-1521:56:15[crawler.RecruitmentFairCrawler-50][Crawler 2][54969] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=588&flag=content
+12-1521:56:15[crawler.RecruitmentFairCrawler-50][Crawler 1][55167] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=443&flag=content
+12-1521:56:15[crawler.RecruitmentFairCrawler-50][Crawler 2][55370] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=587&flag=content
+12-1521:56:16[crawler.RecruitmentFairCrawler-50][Crawler 1][55569] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=444&flag=content
+12-1521:56:16[crawler.RecruitmentFairCrawler-50][Crawler 2][55770] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=597&flag=content
+12-1521:56:16[crawler.RecruitmentFairCrawler-50][Crawler 2][56168] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=598&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=448&flag=content
+12-1521:56:17[crawler.RecruitmentFairCrawler-50][Crawler 1][56768] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=442&flag=content
+12-1521:56:17[crawler.RecruitmentFairCrawler-50][Crawler 2][56969] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=596&flag=content
+12-1521:56:17[crawler.RecruitmentFairCrawler-69][Crawler 1][57166] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3289&flag=content
+12-1521:56:17[crawler.RecruitmentHolder-98][Crawler 1][57167] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Apr 20 00:00:00 CST 2015, room=J1-209]存入数据库
+12-1521:56:17[crawler.RecruitmentFairCrawler-50][Crawler 2][57370] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=595&flag=content
+12-1521:56:18[crawler.RecruitmentFairCrawler-69][Crawler 1][57565] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3094&flag=content
+12-1521:56:18[crawler.RecruitmentHolder-98][Crawler 1][57566] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Apr 14 00:00:00 CST 2015, room=J1-307]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=589&flag=content
+12-1521:56:18[crawler.RecruitmentFairCrawler-69][Crawler 1][57966] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3206&flag=content
+12-1521:56:18[crawler.RecruitmentHolder-98][Crawler 1][57967] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Apr 17 00:00:00 CST 2015, room=J1-115室]存入数据库
+12-1521:56:18[crawler.RecruitmentFairCrawler-50][Crawler 2][58171] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=593&flag=content
+12-1521:56:18[crawler.RecruitmentFairCrawler-69][Crawler 1][58366] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3288&flag=content
+12-1521:56:18[crawler.RecruitmentHolder-98][Crawler 1][58368] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Apr 15 00:00:00 CST 2015, room=J1-209室]存入数据库
+12-1521:56:19[crawler.RecruitmentFairCrawler-50][Crawler 2][58569] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=594&flag=content
+12-1521:56:19[crawler.RecruitmentFairCrawler-69][Crawler 1][58766] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3067&flag=content
+12-1521:56:19[crawler.RecruitmentHolder-98][Crawler 1][58768] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Apr 14 00:00:00 CST 2015, room=J1-225]存入数据库
+12-1521:56:19[crawler.RecruitmentFairCrawler-50][Crawler 2][58970] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=590&flag=content
+12-1521:56:19[crawler.RecruitmentFairCrawler-69][Crawler 1][59166] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3261&flag=content
+12-1521:56:19[crawler.RecruitmentHolder-98][Crawler 1][59167] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Apr 15 00:00:00 CST 2015, room=J1-219]存入数据库
+12-1521:56:19[crawler.RecruitmentFairCrawler-50][Crawler 2][59371] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=592&flag=content
+12-1521:56:20[crawler.RecruitmentFairCrawler-69][Crawler 1][59566] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3061&flag=content
+12-1521:56:20[crawler.RecruitmentHolder-98][Crawler 1][59567] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Apr 03 00:00:00 CST 2015, room=J1-220室]存入数据库
+12-1521:56:20[crawler.RecruitmentFairCrawler-50][Crawler 2][59771] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=591&flag=content
+12-1521:56:20[crawler.RecruitmentFairCrawler-69][Crawler 1][59965] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3091&flag=content
+12-1521:56:20[crawler.RecruitmentHolder-98][Crawler 1][59966] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Apr 08 00:00:00 CST 2015, room=J1-123室]存入数据库
+12-1521:56:20[crawler.RecruitmentFairCrawler-69][Crawler 2][60174] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4249&flag=content
+12-1521:56:20[crawler.RecruitmentHolder-98][Crawler 2][60175] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=云南建工第五建设有限公司, clickCount=732, address=Address [province=Province [name=云南], city=City [name=昆明]], salary=0, time=Tue Nov 10 00:00:00 CST 2015, room=J1-317室]存入数据库
+12-1521:56:20[crawler.RecruitmentFairCrawler-69][Crawler 1][60369] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3161&flag=content
+12-1521:56:20[crawler.RecruitmentHolder-98][Crawler 1][60370] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Apr 10 00:00:00 CST 2015, room=J1-227室]存入数据库
+12-1521:56:21[crawler.RecruitmentFairCrawler-69][Crawler 2][60580] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4245&flag=content
+12-1521:56:21[crawler.RecruitmentHolder-98][Crawler 2][60582] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=新都（青岛）电子有限公司, clickCount=1023, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Nov 09 00:00:00 CST 2015, room=J1-317室]存入数据库
+12-1521:56:21[crawler.RecruitmentFairCrawler-50][Crawler 1][60769] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=465&flag=content
+12-1521:56:21[crawler.RecruitmentFairCrawler-69][Crawler 2][60973] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4244&flag=content
+12-1521:56:21[crawler.RecruitmentHolder-98][Crawler 2][60974] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛丽东化工有限公司, clickCount=868, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Nov 09 00:00:00 CST 2015, room=J1-407室]存入数据库
+12-1521:56:21[crawler.RecruitmentFairCrawler-50][Crawler 1][61168] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=466&flag=content
+12-1521:56:21[crawler.RecruitmentFairCrawler-69][Crawler 2][61383] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4149&flag=content
+12-1521:56:21[crawler.RecruitmentHolder-98][Crawler 2][61385] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=将军烟草集团有限公司, clickCount=1700, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Thu Oct 29 00:00:00 CST 2015, room=J1-407室]存入数据库
+12-1521:56:22[crawler.RecruitmentFairCrawler-50][Crawler 1][61568] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=468&flag=content
+12-1521:56:22[crawler.RecruitmentFairCrawler-69][Crawler 2][61782] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3827&flag=content
+12-1521:56:22[crawler.RecruitmentHolder-98][Crawler 2][61783] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=协鑫集成科技股份有限公司, clickCount=742, address=Address [province=Province [name=江苏], city=City [name=镇江]], salary=0, time=Thu Nov 05 00:00:00 CST 2015, room=J14-213室]存入数据库
+12-1521:56:22[crawler.RecruitmentFairCrawler-50][Crawler 1][61980] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=467&flag=content
+12-1521:56:22[crawler.RecruitmentFairCrawler-69][Crawler 2][62170] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4173&flag=content
+12-1521:56:22[crawler.RecruitmentHolder-98][Crawler 2][62173] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=金能科技股份有限公司, clickCount=976, address=Address [province=Province [name=山东], city=City [name=德州]], salary=0, time=Mon Nov 09 00:00:00 CST 2015, room=J1-229室宣讲，第二天J14-418室面试]存入数据库
+12-1521:56:23[crawler.RecruitmentFairCrawler-69][Crawler 2][62618] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3798&flag=content
+12-1521:56:23[crawler.RecruitmentHolder-98][Crawler 2][62635] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=广州广电计量检测股份有限公司, clickCount=1385, address=Address [province=Province [name=广东], city=City [name=广州]], salary=0, time=Thu Oct 29 00:00:00 CST 2015, room=J14-111室宣讲，30日J14-328室面试，31日J14-328室签约]存入数据库
+12-1521:56:23[crawler.RecruitmentFairCrawler-50][Crawler 1][62772] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=469&flag=content
+12-1521:56:23[crawler.RecruitmentFairCrawler-69][Crawler 2][62982] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4204&flag=content
+12-1521:56:23[crawler.RecruitmentHolder-98][Crawler 2][62985] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东广域科技有限责任公司, clickCount=991, address=Address [province=Province [name=山东], city=City [name=东营]], salary=0, time=Thu Oct 29 00:00:00 CST 2015, room=J14-105室；J14-109室宣讲，下午J14-213室面试]存入数据库
+12-1521:56:23[crawler.RecruitmentFairCrawler-50][Crawler 1][63170] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=459&flag=content
+12-1521:56:23[crawler.RecruitmentFairCrawler-69][Crawler 2][63372] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4219&flag=content
+12-1521:56:23[crawler.RecruitmentHolder-98][Crawler 2][63374] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛九山工贸有限公司, clickCount=780, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Oct 30 00:00:00 CST 2015, room=J1-219室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=464&flag=content
+12-1521:56:24[crawler.RecruitmentFairCrawler-69][Crawler 2][63768] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3358&flag=content
+12-1521:56:24[crawler.RecruitmentHolder-98][Crawler 2][63769] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Apr 24 00:00:00 CST 2015, room=J1-213室]存入数据库
+12-1521:56:24[crawler.RecruitmentFairCrawler-50][Crawler 1][63969] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=463&flag=content
+12-1521:56:24[crawler.RecruitmentFairCrawler-69][Crawler 2][64165] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3384&flag=content
+12-1521:56:24[crawler.RecruitmentHolder-98][Crawler 2][64168] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Apr 24 00:00:00 CST 2015, room=J7-315室]存入数据库
+12-1521:56:24[crawler.RecruitmentFairCrawler-50][Crawler 1][64369] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=457&flag=content
+12-1521:56:25[crawler.RecruitmentFairCrawler-69][Crawler 2][64567] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3367&flag=content
+12-1521:56:25[crawler.RecruitmentHolder-98][Crawler 2][64568] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Apr 27 00:00:00 CST 2015, room=J1--317]存入数据库
+12-1521:56:25[crawler.RecruitmentFairCrawler-50][Crawler 1][64769] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=461&flag=content
+12-1521:56:25[crawler.RecruitmentFairCrawler-69][Crawler 2][64966] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3346&flag=content
+12-1521:56:25[crawler.RecruitmentHolder-98][Crawler 2][64967] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Apr 27 00:00:00 CST 2015, room=J1--225]存入数据库
+12-1521:56:25[crawler.RecruitmentFairCrawler-50][Crawler 1][65169] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=462&flag=content
+12-1521:56:25[crawler.RecruitmentFairCrawler-50][Crawler 2][65368] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=482&flag=content
+12-1521:56:26[crawler.RecruitmentFairCrawler-50][Crawler 1][65569] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=458&flag=content
+12-1521:56:26[crawler.RecruitmentFairCrawler-50][Crawler 2][65768] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=483&flag=content
+12-1521:56:26[crawler.RecruitmentFairCrawler-50][Crawler 1][65968] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=460&flag=content
+12-1521:56:26[crawler.RecruitmentFairCrawler-50][Crawler 2][66170] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=484&flag=content
+12-1521:56:26[crawler.RecruitmentFairCrawler-69][Crawler 1][66388] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2747&flag=content
+12-1521:56:26[crawler.RecruitmentHolder-98][Crawler 1][66389] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Apr 08 00:00:00 CST 2015, room=J1-207室]存入数据库
+12-1521:56:27[crawler.RecruitmentFairCrawler-50][Crawler 2][66569] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=481&flag=content
+12-1521:56:27[crawler.RecruitmentFairCrawler-69][Crawler 1][66780] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4074&flag=content
+12-1521:56:27[crawler.RecruitmentHolder-98][Crawler 1][66781] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛海汇德电气有限公司, clickCount=1759, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Tue Oct 27 00:00:00 CST 2015, room=J14-109室宣讲，下午2点J1-217室面试]存入数据库
+12-1521:56:27[crawler.RecruitmentFairCrawler-50][Crawler 2][66968] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=470&flag=content
+12-1521:56:27[crawler.RecruitmentFairCrawler-69][Crawler 1][67176] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4012&flag=content
+12-1521:56:27[crawler.RecruitmentHolder-98][Crawler 1][67178] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=上海古鳌电子科技股份有限公司, clickCount=1052, address=Address [province=Province [name=上海], city=null], salary=0, time=Tue Oct 27 00:00:00 CST 2015, room=J1-117室]存入数据库
+12-1521:56:27[crawler.RecruitmentFairCrawler-50][Crawler 2][67370] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=475&flag=content
+12-1521:56:28[crawler.RecruitmentFairCrawler-69][Crawler 1][67579] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3955&flag=content
+12-1521:56:28[crawler.RecruitmentHolder-98][Crawler 1][67581] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东五征集团, clickCount=1828, address=Address [province=Province [name=山东], city=City [name=日照]], salary=0, time=Tue Oct 27 00:00:00 CST 2015, room=J14-205室]存入数据库
+12-1521:56:28[crawler.RecruitmentFairCrawler-50][Crawler 2][67769] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=473&flag=content
+12-1521:56:28[crawler.RecruitmentFairCrawler-69][Crawler 1][67976] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4171&flag=content
+12-1521:56:28[crawler.RecruitmentHolder-98][Crawler 1][67977] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=孚日集团, clickCount=1360, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Oct 29 00:00:00 CST 2015, room=J1-325室]存入数据库
+12-1521:56:28[crawler.RecruitmentFairCrawler-50][Crawler 2][68169] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=474&flag=content
+12-1521:56:28[crawler.RecruitmentFairCrawler-69][Crawler 1][68377] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4168&flag=content
+12-1521:56:28[crawler.RecruitmentHolder-98][Crawler 1][68378] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=上海迪士尼度假区, clickCount=758, address=Address [province=Province [name=上海], city=null], salary=0, time=Thu Oct 29 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:56:29[crawler.RecruitmentFairCrawler-50][Crawler 2][68568] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=480&flag=content
+12-1521:56:29[crawler.RecruitmentFairCrawler-50][Crawler 1][68769] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=581&flag=content
+12-1521:56:29[crawler.RecruitmentFairCrawler-50][Crawler 1][69168] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=580&flag=content
+12-1521:56:29[crawler.RecruitmentFairCrawler-50][Crawler 2][69371] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=476&flag=content
+12-1521:56:30[crawler.RecruitmentFairCrawler-50][Crawler 1][69569] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=585&flag=content
+12-1521:56:30[crawler.RecruitmentFairCrawler-50][Crawler 2][69771] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=477&flag=content
+12-1521:56:30[crawler.RecruitmentFairCrawler-50][Crawler 1][69969] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=584&flag=content
+12-1521:56:30[crawler.RecruitmentFairCrawler-50][Crawler 2][70168] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=479&flag=content
+12-1521:56:30[crawler.RecruitmentFairCrawler-50][Crawler 1][70370] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=582&flag=content
+12-1521:56:31[crawler.RecruitmentFairCrawler-50][Crawler 2][70572] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=478&flag=content
+12-1521:56:31[crawler.RecruitmentFairCrawler-50][Crawler 1][70769] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=583&flag=content
+12-1521:56:31[crawler.RecruitmentFairCrawler-69][Crawler 2][70967] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3396&flag=content
+12-1521:56:31[crawler.RecruitmentHolder-98][Crawler 2][70968] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Apr 27 00:00:00 CST 2015, room=J1-319]存入数据库
+12-1521:56:31[crawler.RecruitmentFairCrawler-50][Crawler 1][71168] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=573&flag=content
+12-1521:56:31[crawler.RecruitmentFairCrawler-69][Crawler 2][71365] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3349&flag=content
+12-1521:56:31[crawler.RecruitmentHolder-98][Crawler 2][71366] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Apr 21 00:00:00 CST 2015, room=J1-225]存入数据库
+12-1521:56:32[crawler.RecruitmentFairCrawler-50][Crawler 1][71568] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=575&flag=content
+12-1521:56:32[crawler.RecruitmentFairCrawler-69][Crawler 2][71774] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4144&flag=content
+12-1521:56:32[crawler.RecruitmentHolder-98][Crawler 2][71776] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛颐和兴邦生物科技有限公司, clickCount=783, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Oct 29 00:00:00 CST 2015, room=J1-307室]存入数据库
+12-1521:56:32[crawler.RecruitmentFairCrawler-50][Crawler 1][71970] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=576&flag=content
+12-1521:56:32[crawler.RecruitmentFairCrawler-69][Crawler 2][72178] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4131&flag=content
+12-1521:56:32[crawler.RecruitmentHolder-98][Crawler 2][72179] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=天津航天中为数据系统科技有限公司, clickCount=779, address=Address [province=Province [name=天津], city=null], salary=0, time=Thu Oct 29 00:00:00 CST 2015, room=J1-219室宣讲，下午J1-219室面试]存入数据库
+12-1521:56:32[crawler.RecruitmentFairCrawler-50][Crawler 1][72369] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=579&flag=content
+12-1521:56:33[crawler.RecruitmentFairCrawler-69][Crawler 2][72583] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4068&flag=content
+12-1521:56:33[crawler.RecruitmentHolder-98][Crawler 2][72585] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=北京国联视讯信息技术股份有限公司, clickCount=599, address=Address [province=Province [name=北京], city=null], salary=0, time=Wed Oct 28 00:00:00 CST 2015, room=J14-523室]存入数据库
+12-1521:56:33[crawler.RecruitmentFairCrawler-50][Crawler 1][72769] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=578&flag=content
+12-1521:56:33[crawler.RecruitmentFairCrawler-69][Crawler 2][72986] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4201&flag=content
+12-1521:56:33[crawler.RecruitmentHolder-98][Crawler 2][72989] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=北京地林伟业科技股份有限公司, clickCount=633, address=Address [province=Province [name=北京], city=null], salary=0, time=Wed Oct 28 00:00:00 CST 2015, room=J1-423室宣讲，下午J1-207室面试]存入数据库
+12-1521:56:33[crawler.RecruitmentFairCrawler-69][Crawler 2][73376] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4183&flag=content
+12-1521:56:33[crawler.RecruitmentHolder-98][Crawler 2][73379] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=臻鼎科技, clickCount=875, address=Address [province=Province [name=江苏], city=City [name=淮安]], salary=0, time=Wed Oct 28 00:00:00 CST 2015, room=J14-303室宣讲，下午J14-302室;J14-304室面试]存入数据库
+12-1521:56:34[crawler.RecruitmentFairCrawler-50][Crawler 1][73584] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=577&flag=content
+12-1521:56:34[crawler.RecruitmentFairCrawler-69][Crawler 2][73781] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4060&flag=content
+12-1521:56:34[crawler.RecruitmentHolder-98][Crawler 2][73783] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=新希望六和股份有限公司, clickCount=992, address=Address [province=Province [name=广东], city=City [name=深圳]], salary=0, time=Wed Oct 28 00:00:00 CST 2015, room=J14-323室]存入数据库
+12-1521:56:34[crawler.RecruitmentFairCrawler-50][Crawler 1][73971] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=574&flag=content
+12-1521:56:34[crawler.RecruitmentFairCrawler-69][Crawler 2][74188] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4007&flag=content
+12-1521:56:34[crawler.RecruitmentHolder-98][Crawler 2][74201] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=科蓝软件系统股份有限公司, clickCount=490, address=Address [province=Province [name=北京], city=null], salary=0, time=Wed Oct 28 00:00:00 CST 2015, room=J14-121室宣讲，下午J1-211室面试]存入数据库
+12-1521:56:34[crawler.RecruitmentFairCrawler-69][Crawler 1][74370] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3371&flag=content
+12-1521:56:34[crawler.RecruitmentHolder-98][Crawler 1][74372] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Apr 23 00:00:00 CST 2015, room=J1-214室]存入数据库
+12-1521:56:35[crawler.RecruitmentFairCrawler-50][Crawler 2][74574] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=560&flag=content
+12-1521:56:35[crawler.RecruitmentFairCrawler-69][Crawler 1][74772] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3144&flag=content
+12-1521:56:35[crawler.RecruitmentHolder-98][Crawler 1][74773] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Apr 21 00:00:00 CST 2015, room=J1-307]存入数据库
+12-1521:56:35[crawler.RecruitmentFairCrawler-50][Crawler 2][74979] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=561&flag=content
+12-1521:56:35[crawler.RecruitmentFairCrawler-69][Crawler 1][75172] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3334&flag=content
+12-1521:56:35[crawler.RecruitmentHolder-98][Crawler 1][75173] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Apr 22 00:00:00 CST 2015, room=J1-123室]存入数据库
+12-1521:56:35[crawler.RecruitmentFairCrawler-50][Crawler 2][75372] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=564&flag=content
+12-1521:56:36[crawler.RecruitmentFairCrawler-69][Crawler 1][75568] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3360&flag=content
+12-1521:56:36[crawler.RecruitmentHolder-98][Crawler 1][75569] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Apr 23 00:00:00 CST 2015, room=J1-319]存入数据库
+12-1521:56:36[crawler.RecruitmentFairCrawler-50][Crawler 2][75784] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=565&flag=content
+12-1521:56:36[crawler.RecruitmentFairCrawler-69][Crawler 1][75970] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3326&flag=content
+12-1521:56:36[crawler.RecruitmentHolder-98][Crawler 1][75971] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Apr 21 00:00:00 CST 2015, room=J1-217]存入数据库
+12-1521:56:36[crawler.RecruitmentFairCrawler-50][Crawler 2][76174] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=572&flag=content
+12-1521:56:36[crawler.RecruitmentFairCrawler-69][Crawler 1][76368] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3339&flag=content
+12-1521:56:36[crawler.RecruitmentHolder-98][Crawler 1][76369] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue Apr 21 00:00:00 CST 2015, room=J1-319]存入数据库
+12-1521:56:37[crawler.RecruitmentFairCrawler-50][Crawler 2][76589] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=570&flag=content
+12-1521:56:37[crawler.RecruitmentFairCrawler-69][Crawler 1][76771] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3529&flag=content
+12-1521:56:37[crawler.RecruitmentHolder-98][Crawler 1][76772] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue May 12 00:00:00 CST 2015, room=J1-225]存入数据库
+12-1521:56:37[crawler.RecruitmentFairCrawler-50][Crawler 2][76979] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=571&flag=content
+12-1521:56:37[crawler.RecruitmentFairCrawler-69][Crawler 1][77172] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3530&flag=content
+12-1521:56:37[crawler.RecruitmentHolder-98][Crawler 1][77173] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed May 13 00:00:00 CST 2015, room=J1-213室]存入数据库
+12-1521:56:38[crawler.RecruitmentFairCrawler-69][Crawler 1][77572] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3527&flag=content
+12-1521:56:38[crawler.RecruitmentHolder-98][Crawler 1][77573] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu May 14 00:00:00 CST 2015, room=J1-117室]存入数据库
+12-1521:56:38[crawler.RecruitmentFairCrawler-69][Crawler 2][77877] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4147&flag=content
+12-1521:56:38[crawler.RecruitmentHolder-98][Crawler 2][77881] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=北京以萨数据科技有限公司, clickCount=876, address=Address [province=Province [name=北京], city=null], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J1-219室]存入数据库
+12-1521:56:38[crawler.RecruitmentFairCrawler-69][Crawler 1][77971] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3524&flag=content
+12-1521:56:38[crawler.RecruitmentHolder-98][Crawler 1][77972] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue May 12 00:00:00 CST 2015, room=J1-217]存入数据库
+12-1521:56:38[crawler.RecruitmentFairCrawler-69][Crawler 2][78183] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4150&flag=content
+12-1521:56:38[crawler.RecruitmentHolder-98][Crawler 2][78185] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=昆山华信软件技术有限公司, clickCount=869, address=Address [province=Province [name=江苏], city=City [name=苏州]], salary=0, time=Fri Oct 23 00:00:00 CST 2015, room=J14-205室]存入数据库
+12-1521:56:38[crawler.RecruitmentFairCrawler-69][Crawler 1][78370] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3466&flag=content
+12-1521:56:38[crawler.RecruitmentHolder-98][Crawler 1][78371] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Apr 29 00:00:00 CST 2015, room=J1-123室]存入数据库
+12-1521:56:39[crawler.RecruitmentFairCrawler-69][Crawler 2][78585] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3887&flag=content
+12-1521:56:39[crawler.RecruitmentHolder-98][Crawler 2][78587] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中铁二十四局集团有限公司, clickCount=2757, address=Address [province=Province [name=上海], city=null], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J1-221室]存入数据库
+12-1521:56:39[crawler.RecruitmentFairCrawler-69][Crawler 1][78770] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3479&flag=content
+12-1521:56:39[crawler.RecruitmentHolder-98][Crawler 1][78771] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon May 04 00:00:00 CST 2015, room=J1-214室]存入数据库
+12-1521:56:39[crawler.RecruitmentFairCrawler-69][Crawler 2][78978] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4116&flag=content
+12-1521:56:39[crawler.RecruitmentHolder-98][Crawler 2][78979] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=威海化工机械有限公司, clickCount=1219, address=Address [province=Province [name=山东], city=City [name=威海]], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J1-229室]存入数据库
+12-1521:56:39[crawler.RecruitmentFairCrawler-69][Crawler 1][79169] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3408&flag=content
+12-1521:56:39[crawler.RecruitmentHolder-98][Crawler 1][79170] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed Apr 29 00:00:00 CST 2015, room=J1-107室]存入数据库
+12-1521:56:39[crawler.RecruitmentFairCrawler-69][Crawler 2][79383] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4005&flag=content
+12-1521:56:39[crawler.RecruitmentHolder-98][Crawler 2][79385] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=浩华地产集团青岛公司, clickCount=1565, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Oct 22 00:00:00 CST 2015, room=J14-303室]存入数据库
+12-1521:56:40[crawler.RecruitmentFairCrawler-69][Crawler 1][79569] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3470&flag=content
+12-1521:56:40[crawler.RecruitmentHolder-98][Crawler 1][79570] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Apr 30 00:00:00 CST 2015, room=J1-111室]存入数据库
+12-1521:56:40[crawler.RecruitmentFairCrawler-69][Crawler 2][79790] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4053&flag=content
+12-1521:56:40[crawler.RecruitmentHolder-98][Crawler 2][79792] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=天元建设集团有限公司, clickCount=1997, address=Address [province=Province [name=山东], city=City [name=临沂]], salary=0, time=Thu Oct 22 00:00:00 CST 2015, room=J1-325室]存入数据库
+12-1521:56:40[crawler.RecruitmentFairCrawler-69][Crawler 1][79972] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3515&flag=content
+12-1521:56:40[crawler.RecruitmentHolder-98][Crawler 1][79973] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue May 12 00:00:00 CST 2015, room=J1-307室；J1-319室]存入数据库
+12-1521:56:40[crawler.RecruitmentFairCrawler-69][Crawler 2][80189] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4039&flag=content
+12-1521:56:40[crawler.RecruitmentHolder-98][Crawler 2][80191] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=广东白云通用航空有限公司, clickCount=938, address=Address [province=Province [name=广东], city=City [name=广州]], salary=0, time=Fri Oct 23 00:00:00 CST 2015, room=J1--309室 25日下午J1-309室面试]存入数据库
+12-1521:56:40[crawler.RecruitmentFairCrawler-50][Crawler 1][80371] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=488&flag=content
+12-1521:56:41[crawler.RecruitmentFairCrawler-69][Crawler 2][80576] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3980&flag=content
+12-1521:56:41[crawler.RecruitmentHolder-98][Crawler 2][80577] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛德宇华美商贸有限公司, clickCount=1104, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Oct 23 00:00:00 CST 2015, room=J1-307室]存入数据库
+12-1521:56:41[crawler.RecruitmentFairCrawler-50][Crawler 1][80772] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=486&flag=content
+12-1521:56:41[crawler.RecruitmentFairCrawler-69][Crawler 2][81007] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3859&flag=content
+12-1521:56:41[crawler.RecruitmentHolder-98][Crawler 2][81010] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=深圳市优博讯科技股份有限公司, clickCount=860, address=Address [province=Province [name=广东], city=City [name=深圳]], salary=0, time=Fri Oct 23 00:00:00 CST 2015, room=J1-407室]存入数据库
+12-1521:56:41[crawler.RecruitmentFairCrawler-50][Crawler 1][81172] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=485&flag=content
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=487&flag=content
+12-1521:56:42[crawler.RecruitmentFairCrawler-50][Crawler 2][81774] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=550&flag=content
+12-1521:56:42[crawler.RecruitmentFairCrawler-50][Crawler 1][81977] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=494&flag=content
+12-1521:56:42[crawler.RecruitmentFairCrawler-50][Crawler 2][82173] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=548&flag=content
+12-1521:56:42[crawler.RecruitmentFairCrawler-50][Crawler 1][82375] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=493&flag=content
+12-1521:56:43[crawler.RecruitmentFairCrawler-50][Crawler 2][82571] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=546&flag=content
+12-1521:56:43[crawler.RecruitmentFairCrawler-50][Crawler 1][82771] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=492&flag=content
+12-1521:56:43[crawler.RecruitmentFairCrawler-50][Crawler 2][82972] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=547&flag=content
+12-1521:56:43[crawler.RecruitmentFairCrawler-50][Crawler 1][83172] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=495&flag=content
+12-1521:56:43[crawler.RecruitmentFairCrawler-50][Crawler 2][83376] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=558&flag=content
+12-1521:56:44[crawler.RecruitmentFairCrawler-50][Crawler 2][83785] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=559&flag=content
+12-1521:56:44[crawler.RecruitmentFairCrawler-50][Crawler 1][83973] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=498&flag=content
+12-1521:56:44[crawler.RecruitmentFairCrawler-50][Crawler 2][84177] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=552&flag=content
+12-1521:56:44[crawler.RecruitmentFairCrawler-50][Crawler 1][84370] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=501&flag=content
+12-1521:56:45[crawler.RecruitmentFairCrawler-50][Crawler 2][84573] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=551&flag=content
+12-1521:56:45[crawler.RecruitmentFairCrawler-50][Crawler 1][84772] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=500&flag=content
+12-1521:56:45[crawler.RecruitmentFairCrawler-50][Crawler 2][84972] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=553&flag=content
+12-1521:56:45[crawler.RecruitmentFairCrawler-50][Crawler 1][85172] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=497&flag=content
+12-1521:56:45[crawler.RecruitmentFairCrawler-50][Crawler 2][85373] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=555&flag=content
+12-1521:56:46[crawler.RecruitmentFairCrawler-50][Crawler 1][85571] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=496&flag=content
+12-1521:56:46[crawler.RecruitmentFairCrawler-50][Crawler 2][85774] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=554&flag=content
+12-1521:56:46[crawler.RecruitmentFairCrawler-69][Crawler 1][85972] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3431&flag=content
+12-1521:56:46[crawler.RecruitmentHolder-98][Crawler 1][85973] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue May 05 00:00:00 CST 2015, room=J1-117室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=557&flag=content
+12-1521:56:46[crawler.RecruitmentFairCrawler-69][Crawler 1][86368] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3474&flag=content
+12-1521:56:46[crawler.RecruitmentHolder-98][Crawler 1][86370] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed May 06 00:00:00 CST 2015, room=J1--319]存入数据库
+12-1521:56:47[crawler.RecruitmentFairCrawler-50][Crawler 2][86573] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=556&flag=content
+12-1521:56:47[crawler.RecruitmentFairCrawler-69][Crawler 1][86771] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3410&flag=content
+12-1521:56:47[crawler.RecruitmentHolder-98][Crawler 1][86772] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon May 11 00:00:00 CST 2015, room=J1-417室]存入数据库
+12-1521:56:47[crawler.RecruitmentFairCrawler-69][Crawler 2][86970] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3586&flag=content
+12-1521:56:47[crawler.RecruitmentHolder-98][Crawler 2][86971] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu May 21 00:00:00 CST 2015, room=J1-209]存入数据库
+12-1521:56:47[crawler.RecruitmentFairCrawler-69][Crawler 1][87170] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3495&flag=content
+12-1521:56:47[crawler.RecruitmentHolder-98][Crawler 1][87171] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu May 07 00:00:00 CST 2015, room=J1-323]存入数据库
+12-1521:56:47[crawler.RecruitmentFairCrawler-69][Crawler 2][87369] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3546&flag=content
+12-1521:56:47[crawler.RecruitmentHolder-98][Crawler 2][87370] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu May 14 00:00:00 CST 2015, room=J1-209]存入数据库
+12-1521:56:48[crawler.RecruitmentFairCrawler-69][Crawler 1][87577] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3940&flag=content
+12-1521:56:48[crawler.RecruitmentHolder-98][Crawler 1][87578] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=新奥集团, clickCount=2434, address=Address [province=Province [name=山东], city=City [name=聊城]], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J1-323室]存入数据库
+12-1521:56:48[crawler.RecruitmentFairCrawler-69][Crawler 2][87770] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3545&flag=content
+12-1521:56:48[crawler.RecruitmentHolder-98][Crawler 2][87771] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu May 14 00:00:00 CST 2015, room=J1-319]存入数据库
+12-1521:56:48[crawler.RecruitmentFairCrawler-69][Crawler 1][87979] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4158&flag=content
+12-1521:56:48[crawler.RecruitmentHolder-98][Crawler 1][87980] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=科达集团, clickCount=1986, address=Address [province=Province [name=北京], city=null], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J1-423室]存入数据库
+12-1521:56:48[crawler.RecruitmentFairCrawler-69][Crawler 2][88170] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3615&flag=content
+12-1521:56:48[crawler.RecruitmentHolder-98][Crawler 2][88171] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Tue May 26 00:00:00 CST 2015, room=J1--307]存入数据库
+12-1521:56:48[crawler.RecruitmentFairCrawler-69][Crawler 1][88379] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4127&flag=content
+12-1521:56:48[crawler.RecruitmentHolder-98][Crawler 1][88381] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中国民生银行信用卡中心, clickCount=1023, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J14-213室]存入数据库
+12-1521:56:49[crawler.RecruitmentFairCrawler-69][Crawler 2][88572] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3592&flag=content
+12-1521:56:49[crawler.RecruitmentHolder-98][Crawler 2][88573] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri May 22 00:00:00 CST 2015, room=J1--319]存入数据库
+12-1521:56:49[crawler.RecruitmentFairCrawler-69][Crawler 1][88780] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4165&flag=content
+12-1521:56:49[crawler.RecruitmentHolder-98][Crawler 1][88782] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=广州中海达卫星导航技术股份有限公司, clickCount=872, address=Address [province=Province [name=广东], city=City [name=广州]], salary=0, time=Tue Oct 27 00:00:00 CST 2015, room=J6-434]存入数据库
+12-1521:56:49[crawler.RecruitmentFairCrawler-69][Crawler 2][88969] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3535&flag=content
+12-1521:56:49[crawler.RecruitmentHolder-98][Crawler 2][88970] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri May 22 00:00:00 CST 2015, room=J11-118]存入数据库
+12-1521:56:49[crawler.RecruitmentFairCrawler-69][Crawler 1][89179] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4166&flag=content
+12-1521:56:49[crawler.RecruitmentHolder-98][Crawler 1][89180] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=迈赫机器人自动化股份有限公司, clickCount=1817, address=Address [province=Province [name=山东], city=City [name=潍坊]], salary=0, time=Sat Oct 24 00:00:00 CST 2015, room=J1-311室]存入数据库
+12-1521:56:49[crawler.RecruitmentFairCrawler-69][Crawler 2][89369] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3609&flag=content
+12-1521:56:49[crawler.RecruitmentHolder-98][Crawler 2][89374] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed May 27 00:00:00 CST 2015, room=J1--407]存入数据库
+12-1521:56:50[crawler.RecruitmentFairCrawler-69][Crawler 1][89582] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4170&flag=content
+12-1521:56:50[crawler.RecruitmentHolder-98][Crawler 1][89583] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=招商证券青岛分公司, clickCount=883, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J1-423室]存入数据库
+12-1521:56:50[crawler.RecruitmentFairCrawler-50][Crawler 2][89775] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=512&flag=content
+12-1521:56:50[crawler.RecruitmentFairCrawler-69][Crawler 1][89986] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4032&flag=content
+12-1521:56:50[crawler.RecruitmentHolder-98][Crawler 1][89988] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=创维集团青岛分公司, clickCount=1822, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Fri Oct 23 00:00:00 CST 2015, room=J14-111室]存入数据库
+12-1521:56:50[crawler.RecruitmentFairCrawler-50][Crawler 2][90172] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=514&flag=content
+12-1521:56:50[crawler.RecruitmentFairCrawler-69][Crawler 1][90388] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4115&flag=content
+12-1521:56:50[crawler.RecruitmentHolder-98][Crawler 1][90389] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东公信安全科技有限公司, clickCount=1729, address=Address [province=Province [name=山东], city=City [name=枣庄]], salary=0, time=Fri Oct 23 00:00:00 CST 2015, room=J1--121室]存入数据库
+12-1521:56:51[crawler.RecruitmentFairCrawler-50][Crawler 2][90573] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=513&flag=content
+12-1521:56:51[crawler.RecruitmentFairCrawler-69][Crawler 1][90778] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4162&flag=content
+12-1521:56:51[crawler.RecruitmentHolder-98][Crawler 1][90779] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=派思商务咨询（北京）青岛分公司, clickCount=705, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:56:51[crawler.RecruitmentFairCrawler-50][Crawler 2][90974] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=516&flag=content
+12-1521:56:51[crawler.RecruitmentFairCrawler-69][Crawler 1][91181] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4161&flag=content
+12-1521:56:51[crawler.RecruitmentHolder-98][Crawler 1][91182] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东省大学生海外就业工程, clickCount=1602, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J1-425室]存入数据库
+12-1521:56:51[crawler.RecruitmentFairCrawler-50][Crawler 2][91374] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=515&flag=content
+12-1521:56:52[crawler.RecruitmentFairCrawler-69][Crawler 1][91577] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4146&flag=content
+12-1521:56:52[crawler.RecruitmentHolder-98][Crawler 1][91578] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=金现代信息产业股份有限公司, clickCount=1009, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Mon Oct 26 00:00:00 CST 2015, room=J1-317室]存入数据库
+12-1521:56:52[crawler.RecruitmentFairCrawler-50][Crawler 2][91775] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=510&flag=content
+12-1521:56:52[crawler.RecruitmentFairCrawler-50][Crawler 1][91975] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=567&flag=content
+12-1521:56:52[crawler.RecruitmentFairCrawler-50][Crawler 2][92173] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=511&flag=content
+12-1521:56:52[crawler.RecruitmentFairCrawler-50][Crawler 1][92373] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=568&flag=content
+12-1521:56:53[crawler.RecruitmentFairCrawler-50][Crawler 2][92574] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=508&flag=content
+12-1521:56:53[crawler.RecruitmentFairCrawler-50][Crawler 1][92775] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=569&flag=content
+12-1521:56:53[crawler.RecruitmentFairCrawler-50][Crawler 2][92979] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=507&flag=content
+12-1521:56:53[crawler.RecruitmentFairCrawler-50][Crawler 1][93175] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=566&flag=content
+12-1521:56:53[crawler.RecruitmentFairCrawler-50][Crawler 2][93373] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=505&flag=content
+12-1521:56:54[crawler.RecruitmentFairCrawler-50][Crawler 1][93572] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=563&flag=content
+12-1521:56:54[crawler.RecruitmentFairCrawler-50][Crawler 2][93776] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=509&flag=content
+12-1521:56:54[crawler.RecruitmentFairCrawler-50][Crawler 1][93973] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=562&flag=content
+12-1521:56:54[crawler.RecruitmentFairCrawler-50][Crawler 2][94178] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=504&flag=content
+12-1521:56:54[crawler.RecruitmentFairCrawler-69][Crawler 1][94383] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4030&flag=content
+12-1521:56:54[crawler.RecruitmentHolder-98][Crawler 1][94385] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=东岳集团, clickCount=1137, address=Address [province=Province [name=山东], city=City [name=淄博]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J1-107室]存入数据库
+12-1521:56:55[crawler.RecruitmentFairCrawler-50][Crawler 2][94572] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=503&flag=content
+12-1521:56:55[crawler.RecruitmentFairCrawler-69][Crawler 1][94781] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3904&flag=content
+12-1521:56:55[crawler.RecruitmentHolder-98][Crawler 1][94782] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛德创自动化科技有限公司, clickCount=1130, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J1-209室]存入数据库
+12-1521:56:55[crawler.RecruitmentFairCrawler-69][Crawler 2][94972] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3637&flag=content
+12-1521:56:55[crawler.RecruitmentHolder-98][Crawler 2][94973] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri May 29 00:00:00 CST 2015, room=大学生活动中心201室]存入数据库
+12-1521:56:55[crawler.RecruitmentFairCrawler-69][Crawler 1][95183] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3874&flag=content
+12-1521:56:55[crawler.RecruitmentHolder-98][Crawler 1][95185] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=泰开集团有限公司2016年校园招聘简章, clickCount=1071, address=Address [province=null, city=null], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J1-219室宣讲，下午J1-108室；J1-110室面试]存入数据库
+12-1521:56:55[crawler.RecruitmentFairCrawler-69][Crawler 2][95386] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3924&flag=content
+12-1521:56:55[crawler.RecruitmentHolder-98][Crawler 2][95389] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中国电子系统工程第二建设有限公司, clickCount=2877, address=Address [province=Province [name=江苏], city=City [name=无锡]], salary=0, time=Mon Oct 12 00:00:00 CST 2015, room=J1-313室]存入数据库
+12-1521:56:56[crawler.RecruitmentFairCrawler-69][Crawler 1][95583] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3889&flag=content
+12-1521:56:56[crawler.RecruitmentHolder-98][Crawler 1][95585] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=长城汽车股份有限公司, clickCount=1487, address=Address [province=Province [name=河北], city=City [name=保定]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J1-221室，16日面试教室J1-325室，19日上午签约教室J14-312室]存入数据库
+12-1521:56:56[crawler.RecruitmentFairCrawler-69][Crawler 2][95772] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3702&flag=content
+12-1521:56:56[crawler.RecruitmentHolder-98][Crawler 2][95773] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Thu Jun 11 00:00:00 CST 2015, room=J1-107室]存入数据库
+12-1521:56:56[crawler.RecruitmentFairCrawler-69][Crawler 1][95985] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3825&flag=content
+12-1521:56:56[crawler.RecruitmentHolder-98][Crawler 1][95987] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=人本集团, clickCount=966, address=Address [province=Province [name=浙江], city=City [name=温州]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J1-119室]存入数据库
+12-1521:56:56[crawler.RecruitmentFairCrawler-69][Crawler 2][96178] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3636&flag=content
+12-1521:56:56[crawler.RecruitmentHolder-98][Crawler 2][96179] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri May 29 00:00:00 CST 2015, room=J1-221室]存入数据库
+12-1521:56:56[crawler.RecruitmentFairCrawler-69][Crawler 1][96383] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3996&flag=content
+12-1521:56:56[crawler.RecruitmentHolder-98][Crawler 1][96384] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=积成电子股份有限公司, clickCount=1497, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Wed Oct 14 00:00:00 CST 2015, room=J1-317室宣讲，J1-313室笔试]存入数据库
+12-1521:56:57[crawler.RecruitmentFairCrawler-69][Crawler 2][96571] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3634&flag=content
+12-1521:56:57[crawler.RecruitmentHolder-98][Crawler 2][96572] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Wed May 27 00:00:00 CST 2015, room=大学生活动中心201室]存入数据库
+12-1521:56:57[crawler.RecruitmentFairCrawler-69][Crawler 1][96777] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4014&flag=content
+12-1521:56:57[crawler.RecruitmentHolder-98][Crawler 1][96779] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=宇视科技, clickCount=1604, address=Address [province=Province [name=浙江], city=City [name=杭州]], salary=0, time=Thu Oct 22 00:00:00 CST 2015, room=J1-207室]存入数据库
+12-1521:56:57[crawler.RecruitmentFairCrawler-50][Crawler 2][96976] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=534&flag=content
+12-1521:56:57[crawler.RecruitmentFairCrawler-69][Crawler 1][97183] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3890&flag=content
+12-1521:56:57[crawler.RecruitmentHolder-98][Crawler 1][97184] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东陆宇橡塑集团, clickCount=417, address=Address [province=Province [name=北京], city=null], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J14-113室]存入数据库
+12-1521:56:57[crawler.RecruitmentFairCrawler-50][Crawler 2][97372] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=533&flag=content
+12-1521:56:58[crawler.RecruitmentFairCrawler-69][Crawler 1][97579] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4123&flag=content
+12-1521:56:58[crawler.RecruitmentHolder-98][Crawler 1][97581] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=烟台港万华工业园码头有限公司, clickCount=1727, address=Address [province=Province [name=山东], city=City [name=烟台]], salary=0, time=Thu Oct 22 00:00:00 CST 2015, room=J14-303室宣讲，下午J14-305室面试]存入数据库
+12-1521:56:58[crawler.RecruitmentFairCrawler-50][Crawler 2][97772] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=543&flag=content
+12-1521:56:58[crawler.RecruitmentFairCrawler-69][Crawler 1][97981] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3832&flag=content
+12-1521:56:58[crawler.RecruitmentHolder-98][Crawler 1][97982] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=上海汉得信息技术股份有限公司, clickCount=695, address=Address [province=Province [name=上海], city=null], salary=0, time=Wed Oct 14 00:00:00 CST 2015, room=J1-117室]存入数据库
+12-1521:56:58[crawler.RecruitmentFairCrawler-50][Crawler 2][98176] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=544&flag=content
+12-1521:56:58[crawler.RecruitmentFairCrawler-69][Crawler 1][98393] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4148&flag=content
+12-1521:56:58[crawler.RecruitmentHolder-98][Crawler 1][98394] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东新华医疗器械股份有限公司, clickCount=1876, address=Address [province=Province [name=山东], city=City [name=淄博]], salary=0, time=Fri Oct 23 00:00:00 CST 2015, room=J1-227室宣讲，24日上午J14-211室笔试，25日面试J14-211室;J14-213室，26日上午签约J14-312室]存入数据库
+12-1521:56:59[crawler.RecruitmentFairCrawler-50][Crawler 2][98573] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=545&flag=content
+12-1521:56:59[crawler.RecruitmentFairCrawler-69][Crawler 1][98785] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3918&flag=content
+12-1521:56:59[crawler.RecruitmentHolder-98][Crawler 1][98787] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中铁十六局集团有限公司, clickCount=1973, address=Address [province=Province [name=北京], city=null], salary=0, time=Tue Oct 13 00:00:00 CST 2015, room=J1-219室宣讲，次日上午J14-111室面试]存入数据库
+12-1521:56:59[crawler.RecruitmentFairCrawler-69][Crawler 1][99184] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4119&flag=content
+12-1521:56:59[crawler.RecruitmentHolder-98][Crawler 1][99185] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=华耐家居集团, clickCount=1414, address=Address [province=Province [name=北京], city=null], salary=0, time=Thu Oct 22 00:00:00 CST 2015, room=J1-407室宣讲，晚上J1-407室面试，第二天J1-324室面试]存入数据库
+12-1521:56:59[crawler.RecruitmentFairCrawler-50][Crawler 2][99373] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=542&flag=content
+12-1521:57:00[crawler.RecruitmentFairCrawler-69][Crawler 1][99580] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3984&flag=content
+12-1521:57:00[crawler.RecruitmentHolder-98][Crawler 1][99582] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=豪迈集团, clickCount=1164, address=Address [province=Province [name=山东], city=City [name=潍坊]], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J14-519室]存入数据库
+12-1521:57:00[crawler.RecruitmentFairCrawler-50][Crawler 2][99773] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=541&flag=content
+12-1521:57:00[crawler.RecruitmentFairCrawler-69][Crawler 1][99982] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3977&flag=content
+12-1521:57:00[crawler.RecruitmentHolder-98][Crawler 1][99983] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=东软集团, clickCount=1568, address=Address [province=Province [name=辽宁], city=City [name=哈尔滨]], salary=0, time=Thu Oct 22 00:00:00 CST 2015, room=J14-213室]存入数据库
+12-1521:57:00[crawler.RecruitmentFairCrawler-50][Crawler 2][100173] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=539&flag=content
+12-1521:57:00[crawler.RecruitmentFairCrawler-69][Crawler 1][100387] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3840&flag=content
+12-1521:57:00[crawler.RecruitmentHolder-98][Crawler 1][100388] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=威海众成科技, clickCount=1013, address=Address [province=Province [name=山东], city=City [name=威海]], salary=0, time=Wed Oct 14 00:00:00 CST 2015, room=J1-213室]存入数据库
+12-1521:57:01[crawler.RecruitmentFairCrawler-50][Crawler 2][100574] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=537&flag=content
+12-1521:57:01[crawler.RecruitmentFairCrawler-69][Crawler 1][100778] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3935&flag=content
+12-1521:57:01[crawler.RecruitmentHolder-98][Crawler 1][100779] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=日立电梯, clickCount=2241, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Oct 22 00:00:00 CST 2015, room=J14-519室宣讲，25日上午J14-205室;J14-207室笔试，29日J14-424室;J14-426室;J14-428室;J14-430室;J14-434室]存入数据库
+12-1521:57:01[crawler.RecruitmentFairCrawler-50][Crawler 2][100973] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=540&flag=content
+12-1521:57:01[crawler.RecruitmentFairCrawler-69][Crawler 1][101189] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3912&flag=content
+12-1521:57:01[crawler.RecruitmentHolder-98][Crawler 1][101191] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=浙江沁园水处理, clickCount=1278, address=Address [province=Province [name=浙江], city=City [name=杭州]], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J1-307室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=535&flag=content
+12-1521:57:02[crawler.RecruitmentFairCrawler-69][Crawler 1][101575] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3978&flag=content
+12-1521:57:02[crawler.RecruitmentHolder-98][Crawler 1][101576] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=西安航天天绘数据技术有限公司, clickCount=934, address=Address [province=Province [name=陕西], city=City [name=西安]], salary=0, time=Tue Oct 13 00:00:00 CST 2015, room=J1-311宣讲、J1-309面试]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=536&flag=content
+12-1521:57:02[crawler.RecruitmentFairCrawler-69][Crawler 1][101975] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3888&flag=content
+12-1521:57:02[crawler.RecruitmentHolder-98][Crawler 1][101976] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=德瑞石油装备（青岛）有限公司, clickCount=1339, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Oct 13 00:00:00 CST 2015, room=J1-209室]存入数据库
+12-1521:57:02[crawler.RecruitmentFairCrawler-50][Crawler 2][102173] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=538&flag=content
+12-1521:57:02[crawler.RecruitmentFairCrawler-69][Crawler 1][102371] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3664&flag=content
+12-1521:57:02[crawler.RecruitmentHolder-98][Crawler 1][102373] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Fri Oct 16 00:00:00 CST 2015, room=J1-219室宣讲，晚上18：00及周六在J1-107室面试]存入数据库
+12-1521:57:03[crawler.RecruitmentFairCrawler-69][Crawler 2][102579] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4044&flag=content
+12-1521:57:03[crawler.RecruitmentHolder-98][Crawler 2][102580] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中国十七冶集团有限公司, clickCount=1753, address=Address [province=Province [name=安徽], city=City [name=合肥]], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J14-405室]存入数据库
+12-1521:57:03[crawler.RecruitmentFairCrawler-69][Crawler 1][102779] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3776&flag=content
+12-1521:57:03[crawler.RecruitmentHolder-98][Crawler 1][102781] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛三利集团, clickCount=1641, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J1-323室]存入数据库
+12-1521:57:03[crawler.RecruitmentFairCrawler-69][Crawler 2][102980] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3983&flag=content
+12-1521:57:03[crawler.RecruitmentHolder-98][Crawler 2][102981] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=天津力神电池股份有限公司, clickCount=1620, address=Address [province=Province [name=天津], city=null], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J1-317室宣讲，21日上午J14-440室;J14-442室面试，22日上午J14-440室;J14-442室签约]存入数据库
+12-1521:57:03[crawler.RecruitmentFairCrawler-69][Crawler 1][103188] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3788&flag=content
+12-1521:57:03[crawler.RecruitmentHolder-98][Crawler 1][103190] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=四川航空股份有限公司, clickCount=1132, address=Address [province=Province [name=四川], city=City [name=成都]], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=大学生活动中心201室]存入数据库
+12-1521:57:03[crawler.RecruitmentFairCrawler-69][Crawler 2][103380] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3899&flag=content
+12-1521:57:03[crawler.RecruitmentHolder-98][Crawler 2][103381] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=深圳市芭田生态工程股份有限公司, clickCount=747, address=Address [province=Province [name=广东], city=City [name=深圳]], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J1-414室]存入数据库
+12-1521:57:04[crawler.RecruitmentFairCrawler-69][Crawler 1][103587] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3993&flag=content
+12-1521:57:04[crawler.RecruitmentHolder-98][Crawler 1][103589] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛特锐德电气股份有限公司, clickCount=2221, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J1-312室宣讲，下午J1-309室;J1-311室 面试]存入数据库
+12-1521:57:04[crawler.RecruitmentFairCrawler-69][Crawler 2][103782] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4090&flag=content
+12-1521:57:04[crawler.RecruitmentHolder-98][Crawler 2][103783] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛圣城网络科技有限公司, clickCount=1250, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J1-217室]存入数据库
+12-1521:57:04[crawler.RecruitmentFairCrawler-69][Crawler 1][103987] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4089&flag=content
+12-1521:57:04[crawler.RecruitmentHolder-98][Crawler 1][103988] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=京博农化科技股份有限公司, clickCount=1114, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Tue Oct 20 00:00:00 CST 2015, room=J14-303室]存入数据库
+12-1521:57:04[crawler.RecruitmentFairCrawler-69][Crawler 2][104198] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4071&flag=content
+12-1521:57:04[crawler.RecruitmentHolder-98][Crawler 2][104199] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=英科集团, clickCount=1897, address=Address [province=Province [name=上海], city=null], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J1-219室，22日J14-406室面试]存入数据库
+12-1521:57:04[crawler.RecruitmentFairCrawler-50][Crawler 1][104372] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=531&flag=content
+12-1521:57:05[crawler.RecruitmentFairCrawler-69][Crawler 2][104578] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4114&flag=content
+12-1521:57:05[crawler.RecruitmentHolder-98][Crawler 2][104579] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中铁二十三局集团第一工程有限公司, clickCount=1708, address=Address [province=Province [name=山东], city=City [name=日照]], salary=0, time=Mon Oct 19 00:00:00 CST 2015, room=J1-229室]存入数据库
+12-1521:57:05[crawler.RecruitmentFairCrawler-50][Crawler 1][104773] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=532&flag=content
+12-1521:57:05[crawler.RecruitmentFairCrawler-69][Crawler 2][104981] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3915&flag=content
+12-1521:57:05[crawler.RecruitmentHolder-98][Crawler 2][104983] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=威讯联合半导体有限公司, clickCount=1245, address=Address [province=Province [name=山东], city=City [name=德州]], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J1-423室宣讲，下午J1-111室面试，22日J14-404室面试]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=527&flag=content
+12-1521:57:05[crawler.RecruitmentFairCrawler-69][Crawler 2][105379] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4041&flag=content
+12-1521:57:05[crawler.RecruitmentHolder-98][Crawler 2][105380] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛建安建设集团有限公司, clickCount=1748, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J14-111室]存入数据库
+12-1521:57:06[crawler.RecruitmentFairCrawler-50][Crawler 1][105572] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=530&flag=content
+12-1521:57:06[crawler.RecruitmentFairCrawler-69][Crawler 2][105785] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3900&flag=content
+12-1521:57:06[crawler.RecruitmentHolder-98][Crawler 2][105786] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=奇瑞汽车股份有限公司, clickCount=2365, address=Address [province=Province [name=安徽], city=City [name=芜湖]], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J1-117宣讲，22日J14-304;J14-316;J14-334面试，23日J14-328;J14-336;J14-342面试，24日J1-107室;J1-111室;J1-113室面试，25日J1-107室签约]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=528&flag=content
+12-1521:57:06[crawler.RecruitmentFairCrawler-69][Crawler 2][106183] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4099&flag=content
+12-1521:57:06[crawler.RecruitmentHolder-98][Crawler 2][106184] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=上海第九城市教育科技股份有限公司, clickCount=824, address=Address [province=Province [name=上海], city=null], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J14-303室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=529&flag=content
+12-1521:57:07[crawler.RecruitmentFairCrawler-69][Crawler 2][106584] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4028&flag=content
+12-1521:57:07[crawler.RecruitmentHolder-98][Crawler 2][106585] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=智游集团, clickCount=948, address=Address [province=Province [name=河南], city=City [name=郑州]], salary=0, time=Wed Oct 21 00:00:00 CST 2015, room=J1-207室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=520&flag=content
+12-1521:57:07[crawler.RecruitmentFairCrawler-69][Crawler 2][106973] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=2954&flag=content
+12-1521:57:07[crawler.RecruitmentHolder-98][Crawler 2][106975] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=null, clickCount=0, address=Address [province=null, city=null], salary=0, time=Mon Oct 19 00:00:00 CST 2015, room=J1-219室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=521&flag=content
+12-1521:57:07[crawler.RecruitmentFairCrawler-69][Crawler 2][107378] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4010&flag=content
+12-1521:57:07[crawler.RecruitmentHolder-98][Crawler 2][107379] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中国光大国际有限公司, clickCount=558, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J2-104]存入数据库
+12-1521:57:08[crawler.RecruitmentFairCrawler-50][Crawler 1][107573] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=522&flag=content
+12-1521:57:08[crawler.RecruitmentFairCrawler-69][Crawler 2][107774] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4062&flag=content
+12-1521:57:08[crawler.RecruitmentHolder-98][Crawler 2][107775] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=东营重点企业, clickCount=2745, address=Address [province=Province [name=山东], city=City [name=东营]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=大学生活动中心1楼多功能厅]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=525&flag=content
+12-1521:57:08[crawler.RecruitmentFairCrawler-69][Crawler 2][108186] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4048&flag=content
+12-1521:57:08[crawler.RecruitmentHolder-98][Crawler 2][108187] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中铁十七局集团有限公司, clickCount=2190, address=Address [province=Province [name=山西], city=City [name=太原]], salary=0, time=Wed Oct 14 00:00:00 CST 2015, room=J1-207室]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=523&flag=content
+12-1521:57:09[crawler.RecruitmentFairCrawler-69][Crawler 2][108586] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4027&flag=content
+12-1521:57:09[crawler.RecruitmentHolder-98][Crawler 2][108588] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛鹏腾国际船舶管理有限公司, clickCount=702, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Tue Oct 13 00:00:00 CST 2015, room=J1-213]存入数据库
+无效链接: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=524&flag=content
+12-1521:57:09[crawler.RecruitmentFairCrawler-50][Crawler 1][108974] - 访问摘要页面: http://career.sdust.edu.cn/servlet/CareerFairServlet?CFID=519&flag=content
+12-1521:57:09[crawler.RecruitmentFairCrawler-69][Crawler 2][109182] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=4011&flag=content
+12-1521:57:09[crawler.RecruitmentHolder-98][Crawler 2][109183] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=山东诚信工程建设监理有限公司, clickCount=1502, address=Address [province=Province [name=山东], city=City [name=济南]], salary=0, time=Thu Oct 15 00:00:00 CST 2015, room=J1-413室，晚上面试J1-423室;J1-425室]存入数据库
+12-1521:57:09[crawler.RecruitmentFairCrawler-69][Crawler 1][109383] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3998&flag=content
+12-1521:57:09[crawler.RecruitmentHolder-98][Crawler 1][109384] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=航天恒星科技有限公司, clickCount=1647, address=Address [province=Province [name=北京], city=null], salary=0, time=Mon Oct 19 00:00:00 CST 2015, room=J1-217室宣讲，第二天J14-334室面试]存入数据库
+12-1521:57:10[crawler.RecruitmentFairCrawler-69][Crawler 1][109576] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3989&flag=content
+12-1521:57:10[crawler.RecruitmentHolder-98][Crawler 1][109578] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=青岛蓝海金业贵金属有限公司, clickCount=1910, address=Address [province=Province [name=山东], city=City [name=青岛]], salary=0, time=Mon Oct 19 00:00:00 CST 2015, room=J1-213室]存入数据库
+12-1521:57:10[crawler.RecruitmentFairCrawler-69][Crawler 1][109781] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3927&flag=content
+12-1521:57:10[crawler.RecruitmentHolder-98][Crawler 1][109783] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=北京中科睿芯科技有限公司, clickCount=904, address=Address [province=Province [name=北京], city=null], salary=0, time=Mon Oct 19 00:00:00 CST 2015, room=J1-323室]存入数据库
+12-1521:57:10[crawler.RecruitmentFairCrawler-69][Crawler 1][109980] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3836&flag=content
+12-1521:57:10[crawler.RecruitmentHolder-98][Crawler 1][109981] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=中南集团, clickCount=2348, address=Address [province=Province [name=江苏], city=City [name=南京]], salary=0, time=Mon Oct 19 00:00:00 CST 2015, room=J1-123室]存入数据库
+12-1521:57:10[crawler.RecruitmentFairCrawler-69][Crawler 1][110182] - 访问详细页面: http://career.sdkd.net.cn/servlet/RecruitmentServlet?ID=3982&flag=content
+12-1521:57:10[crawler.RecruitmentHolder-98][Crawler 1][110183] - Recruitment [id=0, recruitmentType=RECRUITMENTINFORMATION, name=艾诺仪器公司, clickCount=1471, address=Address [province=Province [name=北京], city=null], salary=0, time=Mon Oct 19 00:00:00 CST 2015, room=J1-313室]存入数据库
