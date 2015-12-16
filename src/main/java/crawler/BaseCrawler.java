@@ -1,15 +1,16 @@
 package crawler;
 
+import java.util.Calendar;
+import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-import model.Address;
-import model.City;
-import model.Province;
 import model.Recruitment;
 import model.RecruitmentType;
 import edu.uci.ics.crawler4j.crawler.Page;
@@ -53,6 +54,21 @@ public class BaseCrawler extends WebCrawler {
 	 * 自治区
 	 */
 	private static final Pattern ADDRESS_REGION = Pattern.compile("单位所在地：(.+自治区)-(.+)市");
+	/**
+	 * 提取发布日期
+	 */
+	private static final Pattern pattern = Pattern.compile("更新时间:(\\d{4})-(\\d{1,2})-(\\d{1,2})");
+	private static final Logger logger = LoggerFactory.getLogger(BaseCrawler.class);
+	/**
+	 * 学校官网上含有上个学期(也就是上一级学生春招)的信息，所以在此只统计2015年8月1日以后的招聘信息
+	 */
+	protected static final Date DATE_THRESHOLD;
+	
+	static {
+		Calendar calendar = Calendar.getInstance();
+		calendar.set(2015, 7, 1);
+		DATE_THRESHOLD = calendar.getTime();
+	}
 	
 	/**
 	 * 提取详细页面id，示例:
@@ -86,7 +102,7 @@ public class BaseCrawler extends WebCrawler {
 	}
 	
 	/**
-	 *	在详细信息页面里面提取专业、单位地址、浏览量、薪资
+	 *	在详细信息页面里面提取专业、单位地址、浏览量
 	 * @param page
 	 * @return
 	 */
@@ -96,11 +112,22 @@ public class BaseCrawler extends WebCrawler {
 			HtmlParseData data = (HtmlParseData) parseData;
 			Document doc = Jsoup.parse(data.getHtml());
 			Elements divs = doc.select("div[class=content_bottom] div");
+			String name = extractName(divs.get(2).text());
+			if (RecruitmentHolder.exists(name)) {
+				logger.debug("重复信息: " + page.getWebURL().getURL());
+				return null;
+			}
+			String second = divs.get(2).text();
+			if (extractPublishDate(second).before(DATE_THRESHOLD)) {
+				logger.debug("过期信息: " + page.getWebURL().getURL());
+			}
 			Recruitment recruitment = new Recruitment();
+			recruitment.setUrl(page.getWebURL().getURL());
 			recruitment.setClickCount(extractClickCount(divs.get(1).text()));
-			recruitment.setName(extractName(divs.get(2).text()));
+			recruitment.setName(name);
 			recruitment.setRecruitmentType(RecruitmentType.RECRUITMENTINFORMATION);
-			recruitment.setAddress(extractAddress(divs.get(2).text()));
+			extractAddress(second, recruitment);
+			parseTokens(divs.get(3).text(), recruitment);
 			return recruitment;
 		}
 		return null;
@@ -132,34 +159,58 @@ public class BaseCrawler extends WebCrawler {
 	}
 	
 	/**
+	 * 抽取发布日期
+	 * @param str 示例: (发布者：校管理员       更新时间:2015-12-14 11:11:14        点击阅读量：217)
+	 * @return
+	 */
+	private static Date extractPublishDate(String str) {
+		Matcher matcher = pattern.matcher(str);
+		Calendar calendar = Calendar.getInstance();
+		if (matcher.find()) {
+			calendar.set(Integer.parseInt(matcher.group(1)), Integer.parseInt(matcher.group(2)) - 1, Integer.parseInt(matcher.group(3)));
+		}
+		return calendar.getTime();
+	}
+	
+	/**
 	 * 提取单位所在地
 	 * @param str 示例: 招聘企业：青岛奥技科光学有限公司      面向专业：理-工      单位所在地：山东省-青岛市
 	 * @return
 	 */
-	private static Address extractAddress(String str) {
+	private static void extractAddress(String str, Recruitment recruitment) {
 		Matcher matcher;
-		Address address = new Address();
 		if (str.indexOf("省") > -1) {
 			matcher = ADDRESS_PROVINCE.matcher(str);
 			if (matcher.find()) {
-				address.setProvince(new Province(matcher.group(1)));
-				address.setCity(new City(matcher.group(2)));
+				recruitment.setProvinceId(ProvinceHolder.getID(matcher.group(1)));
+				recruitment.setCityId(CityHolder.getID(matcher.group(2)));
 			}
 		} else if (str.indexOf("自治区") > -1) {
 			//自治区
 			matcher = ADDRESS_REGION.matcher(str);
 			if (matcher.find()) {
-				address.setProvince(new Province(matcher.group(1)));
-				address.setCity(new City(matcher.group(2)));
+				recruitment.setProvinceId(ProvinceHolder.getID(matcher.group(1)));
+				recruitment.setCityId(CityHolder.getID(matcher.group(2)));
 			}
 		} else {
 			//直辖市
 			matcher = ADDRESS_CITY.matcher(str);
 			if (matcher.find()) {
-				address.setProvince(new Province(matcher.group(1)));
+				recruitment.setProvinceId(ProvinceHolder.getID(matcher.group(1)));
 			}
 		}
-		return address;
+	}
+	
+	/**
+	 * 统计关键词
+	 * @param source
+	 */
+	private static void parseTokens(String source, Recruitment recruitment) {
+		for (String token : TokenHolder.TOKENS) {
+			if (source.indexOf(token) > -1) {
+				recruitment.addToken(TokenHolder.addTokenCount(token));
+			}
+		}
 	}
 	
 }

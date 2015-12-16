@@ -1,6 +1,8 @@
 package model;
 
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 /**
  * 封装一条招聘会/信息记录
@@ -15,14 +17,17 @@ public class Recruitment {
 	//点击量
 	private int clickCount;
 	//单位所在地
-	private Address address;
-	//薪资水平
-	private int salary;
+	private int provinceId;
+	private int cityId;
+	//此单位在学校就业网的地址
+	private String url;
+	//含有的关键词的id
+	private List<Integer> tokens = new ArrayList<Integer>();
 	
 	//招聘会特有
 	private Date time;
-	//宣讲教室
-	private String room;
+	//宣讲教室-id
+	private int building;
 	
 	//修改次数
 	private int modify;
@@ -31,8 +36,9 @@ public class Recruitment {
 	public String toString() {
 		return "Recruitment [id=" + id + ", recruitmentType=" + recruitmentType
 				+ ", name=" + name + ", clickCount=" + clickCount
-				+ ", address=" + address + ", salary=" + salary + ", time="
-				+ time + ", room=" + room + "]";
+				+ ", provinceId=" + provinceId + ", cityId=" + cityId
+				+ ", url=" + url + ", tokens=" + tokens + ", time=" + time
+				+ ", building=" + building + "]";
 	}
 	
 	public int getId() {
@@ -59,17 +65,17 @@ public class Recruitment {
 	public void setClickCount(int clickCount) {
 		this.clickCount = clickCount;
 	}
-	public Address getAddress() {
-		return address;
+	public int getProvinceId() {
+		return provinceId;
 	}
-	public void setAddress(Address address) {
-		this.address = address;
+	public void setProvinceId(int provinceId) {
+		this.provinceId = provinceId;
 	}
-	public int getSalary() {
-		return salary;
+	public int getCityId() {
+		return cityId;
 	}
-	public void setSalary(int salary) {
-		this.salary = salary;
+	public void setCityId(int cityId) {
+		this.cityId = cityId;
 	}
 	public Date getTime() {
 		return time;
@@ -77,12 +83,33 @@ public class Recruitment {
 	public void setTime(Date time) {
 		this.time = time;
 	}
-	public String getRoom() {
-		return room;
+	public int getBuilding() {
+		return building;
 	}
-	public void setRoom(String room) {
-		this.room = room;
+	public void setBuilding(int building) {
+		this.building = building;
 	}
+	public String getUrl() {
+		return url;
+	}
+	public void setUrl(String url) {
+		this.url = url;
+	}
+	public List<Integer> getTokens() {
+		return tokens;
+	}
+	public void setTokens(List<Integer> tokens) {
+		this.tokens = tokens;
+	}
+
+	/**
+	 * 增加一个token id
+	 * @param id
+	 */
+	public void addToken(int id) {
+		this.tokens.add(id);
+	}
+	
 	/**
 	 * 修改次数加一
 	 * @return 返回现在的次数

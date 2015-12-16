@@ -3,6 +3,7 @@ package crawler;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -47,8 +48,6 @@ public class RecruitmentFairCrawler extends BaseCrawler {
 			int detailId = extractDigest(page, recruitment);
 			if (detailId > 0) {
 				RecruitmentHolder.updateFair(detailId, recruitment);
-			} else {
-				logger.debug("无效链接: " + url);
 			}
 			return;
 		} 
@@ -57,8 +56,6 @@ public class RecruitmentFairCrawler extends BaseCrawler {
 			int detailId = extractDetailID(matcher);
 			if (detailId > 0) {
 				RecruitmentHolder.updateFair(detailId, extractDetail(page));
-			} else {
-				logger.debug("无效链接: " + url);
 			}
 			return;
 		}
@@ -67,8 +64,6 @@ public class RecruitmentFairCrawler extends BaseCrawler {
 			int detailId = extractDetailID(matcher);
 			if (detailId > 0) {
 				RecruitmentHolder.updateFair(detailId, extractDetail(page));
-			} else {
-				logger.debug("无效链接: " + url);
 			}
 			return;
 		}
@@ -90,19 +85,42 @@ public class RecruitmentFairCrawler extends BaseCrawler {
 			Document doc = Jsoup.parse(data.getHtml());
 			//id为body_1的div下面共有两个table，第一个是当前位置指示
 			Elements tds = doc.select("#body_1 table").get(1).select("td");
+			String name = tds.get(7).text();
+			if (RecruitmentHolder.exists(name)) {
+				logger.debug("重复信息: " + page.getWebURL().getURL());
+				return -1;
+			}
 			String timeStr = tds.get(3).text();
 			//解析时间
 			try {
 				recruitment.setTime(dateFormat.parse(timeStr));
+				if (recruitment.getTime().before(DATE_THRESHOLD)) {
+					logger.debug("过期信息: " + page.getWebURL().getURL());
+					return -1;
+				}
 			} catch (ParseException e) {
 				logger.warn("时间字符串: " + timeStr + "解析失败");
 			}
 			//解析招聘会地点
-			recruitment.setRoom(tds.get(5).text());
+			recruitment.setBuilding(extractBuilding(tds.get(5).text()));
 			//解析公司名称
-			recruitment.setName(tds.get(7).text());
+			recruitment.setName(name);
 			String url = tds.get(13).text();
 			return extractDetailID(url);
+		}
+		logger.debug("转至学院官网的信息: " + page.getWebURL().getURL());
+		return -1;
+	}
+	
+	/**
+	 * 提取招聘会地点
+	 * @param str 示例: J1-211室
+	 */
+	private static int extractBuilding(String str) {
+		Pattern pattern = Pattern.compile("[JS]\\d{1,2}");
+		Matcher matcher = pattern.matcher(str);
+		if (matcher.find()) {
+			return BuildingHolder.getID(matcher.group());
 		}
 		return -1;
 	}

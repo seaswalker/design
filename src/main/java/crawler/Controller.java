@@ -21,14 +21,18 @@ public class Controller {
 	/**
 	 * 线程数目
 	 */
-	private static final int THREADS_COUNT = 2;
+	private static final int THREADS_COUNT = 4;
 	
 	public static void main(String[] args) {
-		//startCrawler("http://career.sdust.edu.cn/servlet/RecruitmentServlet?flag=main", RecruitmentInfoCrawler.class);
-		startCrawler("http://career.sdust.edu.cn/servlet/CareerFairServlet?flag=main", RecruitmentFairCrawler.class);
+		/*CrawlController controller = startCrawler("http://career.sdust.edu.cn/servlet/RecruitmentServlet?flag=main", RecruitmentInfoCrawler.class);
+		controller.waitUntilFinish();*/
+		CrawlController controller = startCrawler("http://career.sdust.edu.cn/servlet/CareerFairServlet?flag=main", RecruitmentFairCrawler.class);
+		controller.waitUntilFinish();
+		TokenHolder.flushIntoDatabase();
+		RecruitmentHolder.flushIntoDatabase();
 	}
 	
-	public static void startCrawler(String seed, Class<? extends WebCrawler> clazz) {
+	private static CrawlController startCrawler(String seed, Class<? extends WebCrawler> clazz) {
 		try {
 			CrawlConfig config = new CrawlConfig();
 			config.setCrawlStorageFolder(PATH);
@@ -40,9 +44,11 @@ public class Controller {
 			controller.addSeed(seed);
 			//启动
 			controller.start(clazz, THREADS_COUNT);
+			return controller;
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		return null;
 	}
 	
 }
